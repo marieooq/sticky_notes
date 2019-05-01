@@ -1,0 +1,10 @@
+@charset 'utf-8';
+.note{
+  background-color: aliceblue;
+  padding: 10px;
+}
+
+.note > input[type="text"] {
+  width: 90%;
+  height: 5rem;
+}
