@@ -1,5 +1,6 @@
 @charset 'utf-8';
 #sticky-note-container{
+  width: 300px;
   height: 400px;
 }
 .note{
