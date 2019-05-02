@@ -1,12 +1,14 @@
 function getNewNote(){
-  return '<div class="note">' +
-         '<input type="text>' +
+  return '<div class="note" draggable="true">' +
+         '<input type="text">' +
          '</div>';
 }
 
-$('#add-button').on('click', function(){
-  const note = getNewNote();
-  $('#sticky-note-container').append(note);
-})
+$(document).ready(function(){
+  $('#add-button').on('click', function(){
+    var $note = $(getNewNote());
+    $note.draggable();
+    $('#sticky-note-container').append($note);
+  });
+});
 
-  

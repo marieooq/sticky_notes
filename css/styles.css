@@ -1,7 +1,11 @@
 @charset 'utf-8';
+#sticky-note-container{
+  height: 400px;
+}
 .note{
   background-color: aliceblue;
   padding: 10px;
+  cursor: pointer;
 }
 
 .note > input[type="text"] {
