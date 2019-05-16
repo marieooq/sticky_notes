@@ -1,102 +1,37 @@
-(function($)
-{
-    /**
-     * Auto-growing textareas; technique ripped from Facebook
-     *
-     * https://github.com/jaz303/jquery-grab-bag/tree/master/javascripts/jquery.autogrow-textarea.js
-     */
-    $.fn.autogrow = function(options)
-    {
-        return this.filter('textarea').each(function()
-        {
-            var self         = this;
-            var $self        = $(self);
-            var minHeight    = $self.height();
-            var noFlickerPad = $self.hasClass('autogrow-short') ? 0 : parseInt($self.css('lineHeight')) || 0;
+(function(){
+    'use strict';
 
-            var shadow = $('<div></div>').css({
-                position:    'absolute',
-                top:         -10000,
-                left:        -10000,
-                width:       $self.width(),
-                fontSize:    $self.css('fontSize'),
-                fontFamily:  $self.css('fontFamily'),
-                fontWeight:  $self.css('fontWeight'),
-                lineHeight:  $self.css('lineHeight'),
-                resize:      'none',
-                'word-wrap': 'break-word'
-            }).appendTo(document.body);
+    const addBtn = document.getElementById('add');
+    const board = document.getElementById('board');
+    let cardNum = 1;
 
-            var update = function(event)
-            {
-                var times = function(string, number)
-                {
-                    for (var i=0, r=''; i<number; i++) r += string;
-                    return r;
-                };
+    function createCard(){
+        let card = document.createElement('div');
+        card.classList.add('card');
 
-                var val = self.value.replace(/</g, '&lt;')
-                                    .replace(/>/g, '&gt;')
-                                    .replace(/&/g, '&amp;')
-                                    .replace(/\n$/, '<br/>&nbsp;')
-                                    .replace(/\n/g, '<br/>')
-                                    .replace(/ {2,}/g, function(space){ return times('&nbsp;', space.length - 1) + ' ' });
+        let cardContent = '<button class="delete">X</button><textarea class="card_textarea"></textarea>';
 
-                // Did enter get pressed?  Resize in this keydown event so that the flicker doesn't occur.
-                if (event && event.data && event.data.event === 'keydown' && event.keyCode === 13) {
-                    val += '<br />';
-                }
+        card.innerHTML = cardContent;
+        board.appendChild(card);
+    }
 
-                shadow.css('width', $self.width());
-                shadow.html(val + (noFlickerPad === 0 ? '...' : '')); // Append '...' to resize pre-emptively.
-                $self.height(Math.max(shadow.height() + noFlickerPad, minHeight));
-            }
-
-            $self.change(update).keyup(update).keydown({event:'keydown'},update);
-            $(window).resize(update);
-
-            update();
-        });
-    };
-})(jQuery);
-
-
-var noteTemp =  '<div class="note">'
-        + '<a href="javascript:;" class="button remove">X</a>'
-        +   '<div class="note_cnt">'
-        +   '<textarea class="title" placeholder="Enter note title"></textarea>'
-        +     '<textarea class="cnt" placeholder="Enter note description here"></textarea>'
-        + '</div> '
-        +'</div>';
-
-var noteZindex = 1;
-function deleteNote(){
-    $(this).parent('.note').hide("puff",{ percent: 133}, 250);
-};
-
-function newNote() {
-  $(noteTemp).hide().appendTo("#board").show("fade", 300).draggable().on('dragstart',
-    function(){
-       $(this).zIndex(++noteZindex);
+    addBtn.addEventListener('click', function(){
+        createCard();
     });
- 
-  $('.remove').click(deleteNote);
-  $('textarea').autogrow();
-  
-  $('.note')
-  return false; 
-};
 
+    let deleteBtn = document.getElementsByClassName('delete');
 
+    console.log(deleteBtn);
 
-$(document).ready(function() {
+    for(let i = 0; i < deleteBtn.length; i++){
+        let btn =  deleteBtn[i];
+
+        let card = document.getElementsByClassName('card')[0];
+
+        btn.addEventListener('click', function(){
+            console.log(this.parentNode.parentNode.removeChild(card));
+        });
+    }
+
     
-    $("#board").height($(document).height());
-    
-    $("#add_new").click(newNote);
-    
-    $('.remove').click(deleteNote);
-    newNote();
-    
-    return false;
-});
+})();
