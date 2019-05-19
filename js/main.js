@@ -17,7 +17,7 @@
         cardNum++;
 
         //create delete button
-        const deleteBtn = document.createElement('button');
+        const deleteBtn = document.createElement('a');
         deleteBtn.innerText = 'X';
         deleteBtn.classList.add('delete');
 
@@ -35,7 +35,7 @@
         card.appendChild(deleteBtn);
 
         const cardTextarea = document.createElement('textarea');
-        cardTextarea.classList.add('card_textarea');
+        cardTextarea.classList.add('card-content');
         card.appendChild(cardTextarea);
 
         board.appendChild(card);
