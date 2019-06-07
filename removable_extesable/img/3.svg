@@ -1,0 +1,2748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3000px" height="2000px" viewBox="0 0 3000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="44.8241966%" x2="100%" y2="55.1758034%" id="linearGradient-1">
+            <stop stop-color="#134159" offset="0%"></stop>
+            <stop stop-color="#245B80" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-2" d="M1106.96402,1549.55263 L1207.3364,1756.45951 L1213.07197,1497.82591 L1106.96402,1549.55263 Z"></path>
+        <linearGradient x1="0%" y1="29.4912259%" x2="100%" y2="70.5087741%" id="linearGradient-3">
+            <stop stop-color="#0D3453" offset="0%"></stop>
+            <stop stop-color="#375857" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-4" d="M344.133891,1594.53239 L355.605021,1396.62146 L192.141423,1596.78138 L344.133891,1594.53239 Z"></path>
+        <linearGradient x1="0%" y1="15.920768%" x2="100%" y2="84.079232%" id="linearGradient-5">
+            <stop stop-color="#0F322E" offset="0%"></stop>
+            <stop stop-color="#93ABAA" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-6" d="M1815.30628,2028.58704 L2010.31548,2222 L2018.91883,2208.50607 L1815.30628,2028.58704 Z"></path>
+        <linearGradient x1="0%" y1="39.6170485%" x2="100%" y2="60.3829515%" id="linearGradient-7">
+            <stop stop-color="#084495" offset="0%"></stop>
+            <stop stop-color="#09578B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-8" d="M845.995816,1025.53846 L894.748117,1016.54251 L949.235983,1194.21255 L845.995816,1025.53846 Z"></path>
+        <linearGradient x1="35.1913555%" y1="0%" x2="64.8086445%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#086389" offset="0%"></stop>
+            <stop stop-color="#0C6863" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-10" d="M894.748117,1016.54251 L949.235983,1194.21255 L1316.31213,1014.29352 L894.748117,1016.54251 Z"></path>
+        <linearGradient x1="0%" y1="32.2779881%" x2="100%" y2="67.7220119%" id="linearGradient-11">
+            <stop stop-color="#0C7C76" offset="0%"></stop>
+            <stop stop-color="#0B5369" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-12" d="M949.235983,1194.21255 L1213.07197,1497.82591 L1316.31213,1014.29352 L949.235983,1194.21255 Z"></path>
+        <linearGradient x1="0%" y1="45.5%" x2="100%" y2="54.5%" id="linearGradient-13">
+            <stop stop-color="#0F3847" offset="0%"></stop>
+            <stop stop-color="#387393" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-14" d="M1548.60251,1886.90081 L1600.22259,1778.94939 L1560.07364,1751.96154 L1548.60251,1886.90081 Z"></path>
+        <linearGradient x1="14.8283039%" y1="0%" x2="85.1716961%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#0F8A80" offset="0%"></stop>
+            <stop stop-color="#0D8C86" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-16" d="M2234.00251,254.135628 L2552.32636,526.263158 L2678.50879,233.894737 L2234.00251,254.135628 Z"></path>
+        <linearGradient x1="0%" y1="28.5785124%" x2="100%" y2="71.4214876%" id="linearGradient-17">
+            <stop stop-color="#466C85" offset="0%"></stop>
+            <stop stop-color="#446676" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-18" d="M192.141423,1596.78138 L355.605021,1396.62146 L45.8845188,1225.69838 L192.141423,1596.78138 Z"></path>
+        <linearGradient x1="22.7895727%" y1="0%" x2="77.2104273%" y2="100%" id="linearGradient-19">
+            <stop stop-color="#30A197" offset="0%"></stop>
+            <stop stop-color="#0F8B81" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-20" d="M2041.86109,51.7267206 L2234.00251,254.135628 L1884.13305,157.42915 L2041.86109,51.7267206 Z"></path>
+        <linearGradient x1="20.9391236%" y1="0%" x2="79.0608764%" y2="100%" id="linearGradient-21">
+            <stop stop-color="#083D71" offset="0%"></stop>
+            <stop stop-color="#0A395C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-22" d="M149.124686,602.728745 L438.770711,656.704453 L361.340586,775.90081 L149.124686,602.728745 Z"></path>
+        <linearGradient x1="0%" y1="13.8261329%" x2="100%" y2="86.1738671%" id="linearGradient-23">
+            <stop stop-color="#084285" offset="0%"></stop>
+            <stop stop-color="#0B3748" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-24" d="M149.124686,602.728745 L215.083682,798.390688 L361.340586,775.90081 L149.124686,602.728745 Z"></path>
+        <linearGradient x1="12.2547702%" y1="0%" x2="87.7452298%" y2="100%" id="linearGradient-25">
+            <stop stop-color="#0A3B61" offset="0%"></stop>
+            <stop stop-color="#074391" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-26" d="M361.340586,775.90081 L438.770711,656.704453 L536.275314,755.659919 L361.340586,775.90081 Z"></path>
+        <linearGradient x1="0%" y1="22.1627219%" x2="100%" y2="77.8372781%" id="linearGradient-27">
+            <stop stop-color="#0F928D" offset="0%"></stop>
+            <stop stop-color="#139D94" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-28" d="M2552.32636,526.263158 L2678.50879,233.894737 L2830.50126,294.617409 L2552.32636,526.263158 Z"></path>
+        <linearGradient x1="41.7398543%" y1="0%" x2="58.2601457%" y2="100%" id="linearGradient-29">
+            <stop stop-color="#0D3846" offset="0%"></stop>
+            <stop stop-color="#0D353C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-30" d="M1548.60251,1886.90081 L1815.30628,2028.58704 L1370.8,2008.34615 L1548.60251,1886.90081 Z"></path>
+        <linearGradient x1="40.9258179%" y1="0%" x2="59.0741821%" y2="100%" id="linearGradient-31">
+            <stop stop-color="#0E312B" offset="0%"></stop>
+            <stop stop-color="#506E6A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-32" d="M1815.30628,2028.58704 L2010.31548,2222 L1370.8,2008.34615 L1815.30628,2028.58704 Z"></path>
+        <linearGradient x1="0%" y1="13.5399571%" x2="100%" y2="86.4600429%" id="linearGradient-33">
+            <stop stop-color="#0A3B64" offset="0%"></stop>
+            <stop stop-color="#116099" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-34" d="M739.887866,692.688259 L863.20251,492.52834 L957.839331,616.222672 L739.887866,692.688259 Z"></path>
+        <linearGradient x1="0%" y1="25.9749483%" x2="100%" y2="74.0250517%" id="linearGradient-35">
+            <stop stop-color="#093A62" offset="0%"></stop>
+            <stop stop-color="#064089" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-36" d="M361.340586,775.90081 L536.275314,755.659919 L464.580753,953.57085 L361.340586,775.90081 Z"></path>
+        <linearGradient x1="37.8067368%" y1="0%" x2="62.1932632%" y2="100%" id="linearGradient-37">
+            <stop stop-color="#07399E" offset="0%"></stop>
+            <stop stop-color="#093870" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-38" d="M441.638494,1014.29352 L673.92887,1043.53036 L464.580753,953.57085 L441.638494,1014.29352 Z"></path>
+        <linearGradient x1="16.8739859%" y1="0%" x2="83.1260141%" y2="100%" id="linearGradient-39">
+            <stop stop-color="#498BAB" offset="0%"></stop>
+            <stop stop-color="#437B92" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-40" d="M1006.59163,1866.65992 L1207.3364,1756.45951 L1253.22092,1913.88866 L1006.59163,1866.65992 Z"></path>
+        <linearGradient x1="8.67768595%" y1="0%" x2="91.322314%" y2="100%" id="linearGradient-41">
+            <stop stop-color="#109084" offset="0%"></stop>
+            <stop stop-color="#56B2AB" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-42" d="M1884.13305,157.42915 L2041.86109,51.7267206 L1952.95983,44.9797571 L1884.13305,157.42915 Z"></path>
+        <linearGradient x1="0%" y1="22.5651578%" x2="100%" y2="77.4348422%" id="linearGradient-43">
+            <stop stop-color="#0A4A9F" offset="0%"></stop>
+            <stop stop-color="#09489F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-44" d="M3220.51967,1266.18016 L3303.68536,1254.93522 L3188.97406,1376.38057 L3220.51967,1266.18016 Z"></path>
+        <linearGradient x1="33.9343418%" y1="0%" x2="66.0656582%" y2="100%" id="linearGradient-45">
+            <stop stop-color="#6F8B88" offset="0%"></stop>
+            <stop stop-color="#0B302D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-46" d="M2018.91883,2208.50607 L2368.78828,1970.11336 L2555.19414,1999.3502 L2018.91883,2208.50607 Z"></path>
+        <linearGradient x1="44.7130667%" y1="0%" x2="55.2869333%" y2="100%" id="linearGradient-47">
+            <stop stop-color="#72939C" offset="0%"></stop>
+            <stop stop-color="#193E44" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-48" d="M2018.91883,2208.50607 L2839.1046,2195.01215 L2555.19414,1999.3502 L2018.91883,2208.50607 Z"></path>
+        <linearGradient x1="32.2229081%" y1="0%" x2="67.7770919%" y2="100%" id="linearGradient-49">
+            <stop stop-color="#0B3C59" offset="0%"></stop>
+            <stop stop-color="#0C3130" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-50" d="M2472.02845,1819.43117 L2933.74142,1783.44737 L2555.19414,1999.3502 L2472.02845,1819.43117 Z"></path>
+        <linearGradient x1="41.5078053%" y1="0%" x2="58.4921947%" y2="100%" id="linearGradient-51">
+            <stop stop-color="#0E877E" offset="0%"></stop>
+            <stop stop-color="#0D8C81" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-52" d="M2234.00251,254.135628 L2678.50879,233.894737 L2707.18661,101.204453 L2234.00251,254.135628 Z"></path>
+        <linearGradient x1="0%" y1="31.0100054%" x2="100%" y2="68.9899946%" id="linearGradient-53">
+            <stop stop-color="#0C857C" offset="0%"></stop>
+            <stop stop-color="#12A298" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-54" d="M2678.50879,233.894737 L2830.50126,294.617409 L2707.18661,101.204453 L2678.50879,233.894737 Z"></path>
+        <linearGradient x1="26.8342631%" y1="0%" x2="73.1657369%" y2="100%" id="linearGradient-55">
+            <stop stop-color="#096789" offset="0%"></stop>
+            <stop stop-color="#0B8B86" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-56" d="M2483.49958,701.684211 L2552.32636,526.263158 L2824.76569,519.516194 L2483.49958,701.684211 Z"></path>
+        <linearGradient x1="0%" y1="5.65557545%" x2="100%" y2="94.3444245%" id="linearGradient-57">
+            <stop stop-color="#0C8E8A" offset="0%"></stop>
+            <stop stop-color="#109B93" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-58" d="M2552.32636,526.263158 L2830.50126,294.617409 L2824.76569,519.516194 L2552.32636,526.263158 Z"></path>
+        <linearGradient x1="30.8777701%" y1="0%" x2="69.1222299%" y2="100%" id="linearGradient-59">
+            <stop stop-color="#0A3C61" offset="0%"></stop>
+            <stop stop-color="#1C82A6" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-60" d="M739.887866,692.688259 L957.839331,616.222672 L903.351464,721.925101 L739.887866,692.688259 Z"></path>
+        <linearGradient x1="0%" y1="41.4524778%" x2="100%" y2="58.5475222%" id="linearGradient-61">
+            <stop stop-color="#1AA0A5" offset="0%"></stop>
+            <stop stop-color="#1587A1" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-62" d="M957.839331,616.222672 L1026.66611,850.117409 L903.351464,721.925101 L957.839331,616.222672 Z"></path>
+        <linearGradient x1="0%" y1="38.0617252%" x2="100%" y2="61.9382748%" id="linearGradient-63">
+            <stop stop-color="#0C3454" offset="0%"></stop>
+            <stop stop-color="#0C333F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-64" d="M344.133891,1594.53239 L355.605021,1396.62146 L467.448536,1459.59312 L344.133891,1594.53239 Z"></path>
+        <linearGradient x1="0%" y1="32.1662809%" x2="100%" y2="67.8337191%" id="linearGradient-65">
+            <stop stop-color="#073889" offset="0%"></stop>
+            <stop stop-color="#0F3A67" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-66" d="M344.133891,1594.53239 L421.564017,1621.52024 L467.448536,1459.59312 L344.133891,1594.53239 Z"></path>
+        <linearGradient x1="0%" y1="16.7573964%" x2="100%" y2="83.2426036%" id="linearGradient-67">
+            <stop stop-color="#094AA1" offset="0%"></stop>
+            <stop stop-color="#0B5D9B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-68" d="M3277.87531,778.149798 L3338.09874,690.439271 L3186.10628,631.965587 L3277.87531,778.149798 Z"></path>
+        <linearGradient x1="0%" y1="25.2400549%" x2="100%" y2="74.7599451%" id="linearGradient-69">
+            <stop stop-color="#094D99" offset="0%"></stop>
+            <stop stop-color="#4D96B5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-70" d="M3338.09874,690.439271 L3404.05774,447.548583 L3186.10628,631.965587 L3338.09874,690.439271 Z"></path>
+        <linearGradient x1="0%" y1="8.31758034%" x2="100%" y2="91.6824197%" id="linearGradient-71">
+            <stop stop-color="#0C769C" offset="0%"></stop>
+            <stop stop-color="#0A619F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-72" d="M3186.10628,631.965587 L3277.87531,778.149798 L3097.20502,622.969636 L3186.10628,631.965587 Z"></path>
+        <linearGradient x1="0%" y1="14.9013879%" x2="100%" y2="85.0986121%" id="linearGradient-73">
+            <stop stop-color="#104158" offset="0%"></stop>
+            <stop stop-color="#0E4170" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-74" d="M3031.24603,1542.80567 L3188.97406,1376.38057 L3209.04854,1432.60526 L3031.24603,1542.80567 Z"></path>
+        <linearGradient x1="0%" y1="37.1815414%" x2="100%" y2="62.8184586%" id="linearGradient-75">
+            <stop stop-color="#09469D" offset="0%"></stop>
+            <stop stop-color="#0B4791" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-76" d="M3188.97406,1376.38057 L3303.68536,1254.93522 L3209.04854,1432.60526 L3188.97406,1376.38057 Z"></path>
+        <linearGradient x1="0%" y1="43.6656133%" x2="100%" y2="56.3343867%" id="linearGradient-77">
+            <stop stop-color="#0949A6" offset="0%"></stop>
+            <stop stop-color="#09489E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-78" d="M3277.87531,778.149798 L3338.09874,690.439271 L3295.08201,823.129555 L3277.87531,778.149798 Z"></path>
+        <linearGradient x1="25.1266074%" y1="0%" x2="74.8733926%" y2="100%" id="linearGradient-79">
+            <stop stop-color="#073D9C" offset="0%"></stop>
+            <stop stop-color="#07409A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-80" d="M1993.10879,1601.27935 L2434.74728,1297.66599 L1841.11632,1272.92713 L1993.10879,1601.27935 Z"></path>
+        <linearGradient x1="47.5308642%" y1="0%" x2="52.4691358%" y2="100%" id="linearGradient-81">
+            <stop stop-color="#0C4283" offset="0%"></stop>
+            <stop stop-color="#08439C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-82" d="M2391.73054,1194.21255 L2434.74728,1297.66599 L1841.11632,1272.92713 L2391.73054,1194.21255 Z"></path>
+        <linearGradient x1="6.5857438%" y1="0%" x2="93.4142562%" y2="100%" id="linearGradient-83">
+            <stop stop-color="#0E3F59" offset="0%"></stop>
+            <stop stop-color="#0E4366" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-84" d="M2555.19414,1999.3502 L2933.74142,1783.44737 L2844.84017,2060.07287 L2555.19414,1999.3502 Z"></path>
+        <linearGradient x1="0%" y1="47.6527778%" x2="100%" y2="52.3472222%" id="linearGradient-85">
+            <stop stop-color="#0C353B" offset="0%"></stop>
+            <stop stop-color="#174152" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-86" d="M2807.559,2098.30567 L2839.1046,2195.01215 L2844.84017,2060.07287 L2807.559,2098.30567 Z"></path>
+        <linearGradient x1="37.5%" y1="0%" x2="62.5%" y2="100%" id="linearGradient-87">
+            <stop stop-color="#1F3E3B" offset="0%"></stop>
+            <stop stop-color="#0E3A4A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-88" d="M2839.1046,2195.01215 L3183.23849,2129.7915 L2844.84017,2060.07287 L2839.1046,2195.01215 Z"></path>
+        <linearGradient x1="0%" y1="48.5370499%" x2="100%" y2="51.4629501%" id="linearGradient-89">
+            <stop stop-color="#0D768E" offset="0%"></stop>
+            <stop stop-color="#0C6B9B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-90" d="M3022.64268,600.479757 L3097.20502,622.969636 L3048.45272,942.325911 L3022.64268,600.479757 Z"></path>
+        <linearGradient x1="0%" y1="34.1301329%" x2="100%" y2="65.8698671%" id="linearGradient-91">
+            <stop stop-color="#0A5E9D" offset="0%"></stop>
+            <stop stop-color="#0A48A2" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-92" d="M3097.20502,622.969636 L3277.87531,778.149798 L3048.45272,942.325911 L3097.20502,622.969636 Z"></path>
+        <linearGradient x1="13.9737696%" y1="0%" x2="86.0262304%" y2="100%" id="linearGradient-93">
+            <stop stop-color="#0F4787" offset="0%"></stop>
+            <stop stop-color="#0E478B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-94" d="M3277.87531,778.149798 L3295.08201,823.129555 L3048.45272,942.325911 L3277.87531,778.149798 Z"></path>
+        <linearGradient x1="33.7611285%" y1="0%" x2="66.2388715%" y2="100%" id="linearGradient-95">
+            <stop stop-color="#0A489E" offset="0%"></stop>
+            <stop stop-color="#0B4AA1" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-96" d="M3295.08201,823.129555 L3315.15649,919.836032 L3048.45272,942.325911 L3295.08201,823.129555 Z"></path>
+        <linearGradient x1="14.6605059%" y1="0%" x2="85.3394941%" y2="100%" id="linearGradient-97">
+            <stop stop-color="#103430" offset="0%"></stop>
+            <stop stop-color="#4E6E6B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-98" d="M3183.23849,2129.7915 L3381.11548,1992.60324 L3057.05607,1916.13765 L3183.23849,2129.7915 Z"></path>
+        <linearGradient x1="13.1568643%" y1="0%" x2="86.8431357%" y2="100%" id="linearGradient-99">
+            <stop stop-color="#11435E" offset="0%"></stop>
+            <stop stop-color="#4E6E6B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-100" d="M3303.68536,1774.45142 L3381.11548,1992.60324 L3057.05607,1916.13765 L3303.68536,1774.45142 Z"></path>
+        <linearGradient x1="0%" y1="31.9023068%" x2="100%" y2="68.0976932%" id="linearGradient-101">
+            <stop stop-color="#0C3F5F" offset="0%"></stop>
+            <stop stop-color="#0D3435" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-102" d="M2844.84017,2060.07287 L2933.74142,1783.44737 L3057.05607,1916.13765 L2844.84017,2060.07287 Z"></path>
+        <linearGradient x1="17.5919276%" y1="0%" x2="82.4080724%" y2="100%" id="linearGradient-103">
+            <stop stop-color="#0D3D58" offset="0%"></stop>
+            <stop stop-color="#0E3330" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-104" d="M2844.84017,2060.07287 L3183.23849,2129.7915 L3057.05607,1916.13765 L2844.84017,2060.07287 Z"></path>
+        <linearGradient x1="0%" y1="27.5515989%" x2="100%" y2="72.4484011%" id="linearGradient-105">
+            <stop stop-color="#074396" offset="0%"></stop>
+            <stop stop-color="#095A8C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-106" d="M1995.97657,607.226721 L2234.00251,254.135628 L2374.52385,697.186235 L1995.97657,607.226721 Z"></path>
+        <linearGradient x1="0%" y1="34.1261048%" x2="100%" y2="65.8738952%" id="linearGradient-107">
+            <stop stop-color="#0B6684" offset="0%"></stop>
+            <stop stop-color="#095F92" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-108" d="M2234.00251,254.135628 L2552.32636,526.263158 L2374.52385,697.186235 L2234.00251,254.135628 Z"></path>
+        <linearGradient x1="0%" y1="35.2653061%" x2="100%" y2="64.7346939%" id="linearGradient-109">
+            <stop stop-color="#123F62" offset="0%"></stop>
+            <stop stop-color="#074591" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-110" d="M2477.76402,854.615385 L2483.49958,701.684211 L2374.52385,697.186235 L2477.76402,854.615385 Z"></path>
+        <linearGradient x1="0%" y1="18.4089415%" x2="100%" y2="81.5910585%" id="linearGradient-111">
+            <stop stop-color="#074590" offset="0%"></stop>
+            <stop stop-color="#095F93" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-112" d="M2483.49958,701.684211 L2552.32636,526.263158 L2374.52385,697.186235 L2483.49958,701.684211 Z"></path>
+        <linearGradient x1="0%" y1="8.83058985%" x2="100%" y2="91.1694102%" id="linearGradient-113">
+            <stop stop-color="#08357C" offset="0%"></stop>
+            <stop stop-color="#3F637A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-114" d="M344.133891,1594.53239 L421.564017,1621.52024 L281.042678,1715.97773 L344.133891,1594.53239 Z"></path>
+        <linearGradient x1="0%" y1="1.83470508%" x2="100%" y2="98.1652949%" id="linearGradient-115">
+            <stop stop-color="#789595" offset="0%"></stop>
+            <stop stop-color="#587B8E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-116" d="M192.141423,1596.78138 L344.133891,1594.53239 L281.042678,1715.97773 L192.141423,1596.78138 Z"></path>
+        <linearGradient x1="40.6766529%" y1="0%" x2="59.3233471%" y2="100%" id="linearGradient-117">
+            <stop stop-color="#0F3C67" offset="0%"></stop>
+            <stop stop-color="#0C3E73" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-118" d="M1995.97657,607.226721 L2374.52385,697.186235 L2277.01925,735.419028 L1995.97657,607.226721 Z"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-119">
+            <stop stop-color="#08438D" offset="0%"></stop>
+            <stop stop-color="#0E3F6F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-120" d="M2374.52385,697.186235 L2477.76402,854.615385 L2277.01925,735.419028 L2374.52385,697.186235 Z"></path>
+        <linearGradient x1="0%" y1="13.6245675%" x2="100%" y2="86.3754325%" id="linearGradient-121">
+            <stop stop-color="#0B4A95" offset="0%"></stop>
+            <stop stop-color="#11477E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-122" d="M3220.51967,1266.18016 L3303.68536,1254.93522 L3303.68536,1189.71457 L3220.51967,1266.18016 Z"></path>
+        <linearGradient x1="33.6734694%" y1="0%" x2="66.3265306%" y2="100%" id="linearGradient-123">
+            <stop stop-color="#07399E" offset="0%"></stop>
+            <stop stop-color="#0A3559" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-124" d="M441.638494,1014.29352 L673.92887,1043.53036 L433.035146,1122.24494 L441.638494,1014.29352 Z"></path>
+        <linearGradient x1="9.1659808%" y1="0%" x2="90.8340192%" y2="100%" id="linearGradient-125">
+            <stop stop-color="#6088B6" offset="0%"></stop>
+            <stop stop-color="#0A3858" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-126" d="M45.8845188,1225.69838 L355.605021,1396.62146 L433.035146,1122.24494 L45.8845188,1225.69838 Z"></path>
+        <linearGradient x1="0%" y1="19.8738325%" x2="100%" y2="80.1261675%" id="linearGradient-127">
+            <stop stop-color="#13406A" offset="0%"></stop>
+            <stop stop-color="#123E64" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-128" d="M1841.11632,1272.92713 L2004.57992,951.321862 L2159.44017,1030.03644 L1841.11632,1272.92713 Z"></path>
+        <linearGradient x1="34.1796875%" y1="0%" x2="65.8203125%" y2="100%" id="linearGradient-129">
+            <stop stop-color="#0A4499" offset="0%"></stop>
+            <stop stop-color="#0C4179" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-130" d="M1841.11632,1272.92713 L2391.73054,1194.21255 L2159.44017,1030.03644 L1841.11632,1272.92713 Z"></path>
+        <linearGradient x1="0%" y1="14.1017423%" x2="100%" y2="85.8982577%" id="linearGradient-131">
+            <stop stop-color="#084187" offset="0%"></stop>
+            <stop stop-color="#113D5E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-132" d="M2277.01925,735.419028 L2477.76402,854.615385 L2159.44017,1030.03644 L2277.01925,735.419028 Z"></path>
+        <linearGradient x1="0%" y1="19.5158566%" x2="100%" y2="80.4841434%" id="linearGradient-133">
+            <stop stop-color="#0B417F" offset="0%"></stop>
+            <stop stop-color="#0F3F6C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-134" d="M2391.73054,1194.21255 L2486.36736,865.860324 L2159.44017,1030.03644 L2391.73054,1194.21255 Z"></path>
+        <linearGradient x1="26.5927978%" y1="0%" x2="73.4072022%" y2="100%" id="linearGradient-135">
+            <stop stop-color="#123E68" offset="0%"></stop>
+            <stop stop-color="#0F3F6E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-136" d="M2477.76402,854.615385 L2486.36736,865.860324 L2159.44017,1030.03644 L2477.76402,854.615385 Z"></path>
+        <linearGradient x1="6.52848795%" y1="0%" x2="93.4715121%" y2="100%" id="linearGradient-137">
+            <stop stop-color="#0B3D53" offset="0%"></stop>
+            <stop stop-color="#0C3B4F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-138" d="M3031.24603,1542.80567 L3209.04854,1432.60526 L3243.46192,1587.78543 L3031.24603,1542.80567 Z"></path>
+        <linearGradient x1="0%" y1="47.5141527%" x2="100%" y2="52.4858473%" id="linearGradient-139">
+            <stop stop-color="#0C4789" offset="0%"></stop>
+            <stop stop-color="#0C4480" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-140" d="M3209.04854,1432.60526 L3303.68536,1254.93522 L3243.46192,1587.78543 L3209.04854,1432.60526 Z"></path>
+        <linearGradient x1="0%" y1="46.7992452%" x2="100%" y2="53.2007548%" id="linearGradient-141">
+            <stop stop-color="#103B46" offset="0%"></stop>
+            <stop stop-color="#104361" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-142" d="M3283.61088,1747.46356 L3303.68536,1774.45142 L3243.46192,1587.78543 L3283.61088,1747.46356 Z"></path>
+        <linearGradient x1="0%" y1="49.5867769%" x2="100%" y2="50.4132231%" id="linearGradient-143">
+            <stop stop-color="#0A3F6C" offset="0%"></stop>
+            <stop stop-color="#0D3F56" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-144" d="M3303.68536,1254.93522 L3303.68536,1774.45142 L3243.46192,1587.78543 L3303.68536,1254.93522 Z"></path>
+        <linearGradient x1="48.6111111%" y1="0%" x2="51.3888889%" y2="100%" id="linearGradient-145">
+            <stop stop-color="#D0E9E9" offset="0%"></stop>
+            <stop stop-color="#90CBC7" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-146" d="M45.8845188,11.2449393 L157.728033,94.4574899 L768.56569,0 L45.8845188,11.2449393 Z"></path>
+        <linearGradient x1="45.6206753%" y1="0%" x2="54.3793247%" y2="100%" id="linearGradient-147">
+            <stop stop-color="#0D302C" offset="0%"></stop>
+            <stop stop-color="#516F6C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-148" d="M1370.8,2008.34615 L2010.31548,2222 L1089.75732,2172.52227 L1370.8,2008.34615 Z"></path>
+        <linearGradient x1="11.71875%" y1="0%" x2="88.28125%" y2="100%" id="linearGradient-149">
+            <stop stop-color="#0E3F55" offset="0%"></stop>
+            <stop stop-color="#0E3C4A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-150" d="M2933.74142,1783.44737 L3057.05607,1916.13765 L3186.10628,1742.96559 L2933.74142,1783.44737 Z"></path>
+        <linearGradient x1="9.91752299%" y1="0%" x2="90.082477%" y2="100%" id="linearGradient-151">
+            <stop stop-color="#0E383B" offset="0%"></stop>
+            <stop stop-color="#0F3F54" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-152" d="M3057.05607,1916.13765 L3303.68536,1774.45142 L3186.10628,1742.96559 L3057.05607,1916.13765 Z"></path>
+        <linearGradient x1="0%" y1="38.534021%" x2="100%" y2="61.465979%" id="linearGradient-153">
+            <stop stop-color="#0F425C" offset="0%"></stop>
+            <stop stop-color="#0F3C49" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-154" d="M3243.46192,1587.78543 L3283.61088,1747.46356 L3186.10628,1742.96559 L3243.46192,1587.78543 Z"></path>
+        <linearGradient x1="44.1701368%" y1="0%" x2="55.8298632%" y2="100%" id="linearGradient-155">
+            <stop stop-color="#0E3536" offset="0%"></stop>
+            <stop stop-color="#0F3D51" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-156" d="M3283.61088,1747.46356 L3303.68536,1774.45142 L3186.10628,1742.96559 L3283.61088,1747.46356 Z"></path>
+        <linearGradient x1="0%" y1="31.535503%" x2="100%" y2="68.464497%" id="linearGradient-157">
+            <stop stop-color="#5B95B0" offset="0%"></stop>
+            <stop stop-color="#407689" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-158" d="M1006.59163,1866.65992 L1207.3364,1756.45951 L980.78159,1574.2915 L1006.59163,1866.65992 Z"></path>
+        <linearGradient x1="0%" y1="13.1320888%" x2="100%" y2="86.8679112%" id="linearGradient-159">
+            <stop stop-color="#3F6E88" offset="0%"></stop>
+            <stop stop-color="#447482" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-160" d="M1106.96402,1549.55263 L1207.3364,1756.45951 L980.78159,1574.2915 L1106.96402,1549.55263 Z"></path>
+        <linearGradient x1="40.8163265%" y1="0%" x2="59.1836735%" y2="100%" id="linearGradient-161">
+            <stop stop-color="#198E86" offset="0%"></stop>
+            <stop stop-color="#0B7286" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-162" d="M800.111297,51.7267206 L1482.64351,278.874494 L906.219247,281.123482 L800.111297,51.7267206 Z"></path>
+        <linearGradient x1="49.0977946%" y1="0%" x2="50.9022054%" y2="100%" id="linearGradient-163">
+            <stop stop-color="#0A638A" offset="0%"></stop>
+            <stop stop-color="#0B7287" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-164" d="M914.822594,339.597166 L1482.64351,278.874494 L906.219247,281.123482 L914.822594,339.597166 Z"></path>
+        <linearGradient x1="11.3865932%" y1="0%" x2="88.6134068%" y2="100%" id="linearGradient-165">
+            <stop stop-color="#0B3030" offset="0%"></stop>
+            <stop stop-color="#163A3A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-166" d="M2555.19414,1999.3502 L2839.1046,2195.01215 L2781.74895,2080.31377 L2555.19414,1999.3502 Z"></path>
+        <linearGradient x1="43.6476816%" y1="0%" x2="56.3523184%" y2="100%" id="linearGradient-167">
+            <stop stop-color="#0D3844" offset="0%"></stop>
+            <stop stop-color="#0C3F5A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-168" d="M2555.19414,1999.3502 L2844.84017,2060.07287 L2781.74895,2080.31377 L2555.19414,1999.3502 Z"></path>
+        <linearGradient x1="20.1446281%" y1="0%" x2="79.8553719%" y2="100%" id="linearGradient-169">
+            <stop stop-color="#0E4262" offset="0%"></stop>
+            <stop stop-color="#0C4265" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-170" d="M2807.559,2098.30567 L2844.84017,2060.07287 L2781.74895,2080.31377 L2807.559,2098.30567 Z"></path>
+        <linearGradient x1="22.1918989%" y1="0%" x2="77.8081011%" y2="100%" id="linearGradient-171">
+            <stop stop-color="#083E84" offset="0%"></stop>
+            <stop stop-color="#074086" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-172" d="M438.770711,656.704453 L536.275314,755.659919 L607.969874,685.941296 L438.770711,656.704453 Z"></path>
+        <linearGradient x1="0%" y1="25.1301939%" x2="100%" y2="74.8698061%" id="linearGradient-173">
+            <stop stop-color="#31A399" offset="0%"></stop>
+            <stop stop-color="#50ADA6" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-174" d="M2041.86109,51.7267206 L2234.00251,254.135628 L2093.48117,40.4817814 L2041.86109,51.7267206 Z"></path>
+        <linearGradient x1="40.1465193%" y1="0%" x2="59.8534807%" y2="100%" id="linearGradient-175">
+            <stop stop-color="#108D83" offset="0%"></stop>
+            <stop stop-color="#50B2AA" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-176" d="M2234.00251,254.135628 L2707.18661,101.204453 L2093.48117,40.4817814 L2234.00251,254.135628 Z"></path>
+        <linearGradient x1="49.5%" y1="0%" x2="50.5%" y2="100%" id="linearGradient-177">
+            <stop stop-color="#58B6AE" offset="0%"></stop>
+            <stop stop-color="#C4E5E5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-178" d="M2707.18661,101.204453 L3383.98326,0 L2093.48117,40.4817814 L2707.18661,101.204453 Z"></path>
+        <linearGradient x1="0%" y1="12.8418549%" x2="100%" y2="87.1581451%" id="linearGradient-179">
+            <stop stop-color="#0A4081" offset="0%"></stop>
+            <stop stop-color="#0E3E72" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-180" d="M1522.79247,708.431174 L1714.93389,688.190283 L1499.85021,883.852227 L1522.79247,708.431174 Z"></path>
+        <linearGradient x1="27.9237361%" y1="0%" x2="72.0762639%" y2="100%" id="linearGradient-181">
+            <stop stop-color="#093666" offset="0%"></stop>
+            <stop stop-color="#0C3F60" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-182" d="M1993.10879,1601.27935 L2030.38996,1812.68421 L2429.01172,1828.42713 L1993.10879,1601.27935 Z"></path>
+        <linearGradient x1="0%" y1="28.7094226%" x2="100%" y2="71.2905774%" id="linearGradient-183">
+            <stop stop-color="#083E9D" offset="0%"></stop>
+            <stop stop-color="#084395" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-184" d="M1993.10879,1601.27935 L2434.74728,1297.66599 L2429.01172,1828.42713 L1993.10879,1601.27935 Z"></path>
+        <linearGradient x1="37.3194969%" y1="0%" x2="62.6805031%" y2="100%" id="linearGradient-185">
+            <stop stop-color="#0E405D" offset="0%"></stop>
+            <stop stop-color="#0D3C55" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-186" d="M2030.38996,1812.68421 L2368.78828,1970.11336 L2429.01172,1828.42713 L2030.38996,1812.68421 Z"></path>
+        <linearGradient x1="0%" y1="13.4262465%" x2="100%" y2="86.5737535%" id="linearGradient-187">
+            <stop stop-color="#0D302D" offset="0%"></stop>
+            <stop stop-color="#0B384D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-188" d="M2368.78828,1970.11336 L2555.19414,1999.3502 L2429.01172,1828.42713 L2368.78828,1970.11336 Z"></path>
+        <linearGradient x1="0%" y1="49.7980106%" x2="100%" y2="50.2019894%" id="linearGradient-189">
+            <stop stop-color="#09448D" offset="0%"></stop>
+            <stop stop-color="#0B4882" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-190" d="M2434.74728,1297.66599 L2472.02845,1819.43117 L2429.01172,1828.42713 L2434.74728,1297.66599 Z"></path>
+        <linearGradient x1="0%" y1="34.875%" x2="100%" y2="65.125%" id="linearGradient-191">
+            <stop stop-color="#0C3D58" offset="0%"></stop>
+            <stop stop-color="#0C394D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-192" d="M2472.02845,1819.43117 L2555.19414,1999.3502 L2429.01172,1828.42713 L2472.02845,1819.43117 Z"></path>
+        <linearGradient x1="0%" y1="23.268586%" x2="100%" y2="76.731414%" id="linearGradient-193">
+            <stop stop-color="#0A3E74" offset="0%"></stop>
+            <stop stop-color="#093D70" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-194" d="M438.770711,656.704453 L607.969874,685.941296 L412.960669,476.785425 L438.770711,656.704453 Z"></path>
+        <linearGradient x1="32.4556777%" y1="0%" x2="67.5443223%" y2="100%" id="linearGradient-195">
+            <stop stop-color="#074294" offset="0%"></stop>
+            <stop stop-color="#073F82" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-196" d="M607.969874,685.941296 L863.20251,492.52834 L412.960669,476.785425 L607.969874,685.941296 Z"></path>
+        <linearGradient x1="42.4506122%" y1="0%" x2="57.5493878%" y2="100%" id="linearGradient-197">
+            <stop stop-color="#07418E" offset="0%"></stop>
+            <stop stop-color="#083F86" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-198" d="M863.20251,492.52834 L914.822594,339.597166 L412.960669,476.785425 L863.20251,492.52834 Z"></path>
+        <linearGradient x1="37.642449%" y1="0%" x2="62.357551%" y2="100%" id="linearGradient-199">
+            <stop stop-color="#084498" offset="0%"></stop>
+            <stop stop-color="#083E87" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-200" d="M906.219247,281.123482 L914.822594,339.597166 L412.960669,476.785425 L906.219247,281.123482 Z"></path>
+        <linearGradient x1="18.6305264%" y1="0%" x2="81.3694736%" y2="100%" id="linearGradient-201">
+            <stop stop-color="#064394" offset="0%"></stop>
+            <stop stop-color="#074086" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-202" d="M149.124686,602.728745 L438.770711,656.704453 L412.960669,476.785425 L149.124686,602.728745 Z"></path>
+        <linearGradient x1="29.4052127%" y1="0%" x2="70.5947873%" y2="100%" id="linearGradient-203">
+            <stop stop-color="#07418B" offset="0%"></stop>
+            <stop stop-color="#0B5C8E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-204" d="M863.20251,492.52834 L914.822594,339.597166 L1247.48536,533.010121 L863.20251,492.52834 Z"></path>
+        <linearGradient x1="41.5766318%" y1="0%" x2="58.4233682%" y2="100%" id="linearGradient-205">
+            <stop stop-color="#07458C" offset="0%"></stop>
+            <stop stop-color="#147D96" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-206" d="M863.20251,492.52834 L957.839331,616.222672 L1247.48536,533.010121 L863.20251,492.52834 Z"></path>
+        <linearGradient x1="33.714672%" y1="0%" x2="66.285328%" y2="100%" id="linearGradient-207">
+            <stop stop-color="#0D688D" offset="0%"></stop>
+            <stop stop-color="#108E83" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-208" d="M914.822594,339.597166 L1482.64351,278.874494 L1247.48536,533.010121 L914.822594,339.597166 Z"></path>
+        <linearGradient x1="0%" y1="24.3448519%" x2="100%" y2="75.6551481%" id="linearGradient-209">
+            <stop stop-color="#199EA0" offset="0%"></stop>
+            <stop stop-color="#0D808F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-210" d="M957.839331,616.222672 L1026.66611,850.117409 L1247.48536,533.010121 L957.839331,616.222672 Z"></path>
+        <linearGradient x1="0%" y1="4.32688543%" x2="100%" y2="95.6731146%" id="linearGradient-211">
+            <stop stop-color="#119185" offset="0%"></stop>
+            <stop stop-color="#117069" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-212" d="M1247.48536,533.010121 L1482.64351,278.874494 L1557.20586,492.52834 L1247.48536,533.010121 Z"></path>
+        <linearGradient x1="10.4938272%" y1="0%" x2="89.5061728%" y2="100%" id="linearGradient-213">
+            <stop stop-color="#0C6C8D" offset="0%"></stop>
+            <stop stop-color="#0D3E68" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-214" d="M1247.48536,533.010121 L1522.79247,708.431174 L1557.20586,492.52834 L1247.48536,533.010121 Z"></path>
+        <linearGradient x1="0%" y1="42%" x2="100%" y2="58%" id="linearGradient-215">
+            <stop stop-color="#0D8A80" offset="0%"></stop>
+            <stop stop-color="#105459" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-216" d="M1482.64351,278.874494 L1591.61925,440.801619 L1557.20586,492.52834 L1482.64351,278.874494 Z"></path>
+        <linearGradient x1="0%" y1="25.6456163%" x2="100%" y2="74.3543837%" id="linearGradient-217">
+            <stop stop-color="#10394F" offset="0%"></stop>
+            <stop stop-color="#103952" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-218" d="M1522.79247,708.431174 L1714.93389,688.190283 L1557.20586,492.52834 L1522.79247,708.431174 Z"></path>
+        <linearGradient x1="0%" y1="37.5%" x2="100%" y2="62.5%" id="linearGradient-219">
+            <stop stop-color="#0A3D72" offset="0%"></stop>
+            <stop stop-color="#0B3E72" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-220" d="M1591.61925,440.801619 L1714.93389,688.190283 L1557.20586,492.52834 L1591.61925,440.801619 Z"></path>
+        <linearGradient x1="33.8448753%" y1="0%" x2="66.1551247%" y2="100%" id="linearGradient-221">
+            <stop stop-color="#08449D" offset="0%"></stop>
+            <stop stop-color="#0B489B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-222" d="M2434.74728,1297.66599 L2446.21841,1216.70243 L2707.18661,1338.14777 L2434.74728,1297.66599 Z"></path>
+        <linearGradient x1="31.0650888%" y1="0%" x2="68.9349112%" y2="100%" id="linearGradient-223">
+            <stop stop-color="#0A479B" offset="0%"></stop>
+            <stop stop-color="#10427B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-224" d="M2446.21841,1216.70243 L2744.46778,1194.21255 L2707.18661,1338.14777 L2446.21841,1216.70243 Z"></path>
+        <linearGradient x1="11.451517%" y1="0%" x2="88.548483%" y2="100%" id="linearGradient-225">
+            <stop stop-color="#0E8A80" offset="0%"></stop>
+            <stop stop-color="#0B5774" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-226" d="M1482.64351,278.874494 L1591.61925,440.801619 L1717.80167,366.58502 L1482.64351,278.874494 Z"></path>
+        <linearGradient x1="0%" y1="45.2662722%" x2="100%" y2="54.7337278%" id="linearGradient-227">
+            <stop stop-color="#0F394D" offset="0%"></stop>
+            <stop stop-color="#0A3E73" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-228" d="M1591.61925,440.801619 L1714.93389,688.190283 L1717.80167,366.58502 L1591.61925,440.801619 Z"></path>
+        <linearGradient x1="0%" y1="26.5171891%" x2="100%" y2="73.4828109%" id="linearGradient-229">
+            <stop stop-color="#084189" offset="0%"></stop>
+            <stop stop-color="#08428D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-230" d="M1714.93389,688.190283 L1995.97657,607.226721 L1717.80167,366.58502 L1714.93389,688.190283 Z"></path>
+        <linearGradient x1="36.6527778%" y1="0%" x2="63.3472222%" y2="100%" id="linearGradient-231">
+            <stop stop-color="#0E8B80" offset="0%"></stop>
+            <stop stop-color="#0B7182" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-232" d="M1884.13305,157.42915 L2234.00251,254.135628 L1717.80167,366.58502 L1884.13305,157.42915 Z"></path>
+        <linearGradient x1="11.9614198%" y1="0%" x2="88.0385802%" y2="100%" id="linearGradient-233">
+            <stop stop-color="#074296" offset="0%"></stop>
+            <stop stop-color="#095987" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-234" d="M1995.97657,607.226721 L2234.00251,254.135628 L1717.80167,366.58502 L1995.97657,607.226721 Z"></path>
+        <linearGradient x1="48.2103725%" y1="0%" x2="51.7896275%" y2="100%" id="linearGradient-235">
+            <stop stop-color="#0A376F" offset="0%"></stop>
+            <stop stop-color="#093A69" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-236" d="M579.29205,1545.05466 L897.6159,1545.05466 L848.863598,1592.2834 L579.29205,1545.05466 Z"></path>
+        <linearGradient x1="39.5793951%" y1="0%" x2="60.4206049%" y2="100%" id="linearGradient-237">
+            <stop stop-color="#08396F" offset="0%"></stop>
+            <stop stop-color="#09396B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-238" d="M897.6159,1545.05466 L980.78159,1574.2915 L848.863598,1592.2834 L897.6159,1545.05466 Z"></path>
+        <linearGradient x1="0%" y1="41.0502959%" x2="100%" y2="58.9497041%" id="linearGradient-239">
+            <stop stop-color="#124363" offset="0%"></stop>
+            <stop stop-color="#225D9A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-240" d="M980.78159,1574.2915 L1006.59163,1866.65992 L848.863598,1592.2834 L980.78159,1574.2915 Z"></path>
+        <linearGradient x1="0%" y1="1.62590701%" x2="100%" y2="98.374093%" id="linearGradient-241">
+            <stop stop-color="#093564" offset="0%"></stop>
+            <stop stop-color="#073A76" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-242" d="M355.605021,1396.62146 L433.035146,1122.24494 L699.738912,1304.41296 L355.605021,1396.62146 Z"></path>
+        <linearGradient x1="33.46875%" y1="0%" x2="66.53125%" y2="100%" id="linearGradient-243">
+            <stop stop-color="#0F322F" offset="0%"></stop>
+            <stop stop-color="#0A385D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-244" d="M355.605021,1396.62146 L467.448536,1459.59312 L699.738912,1304.41296 L355.605021,1396.62146 Z"></path>
+        <linearGradient x1="0%" y1="21.3468425%" x2="100%" y2="78.6531575%" id="linearGradient-245">
+            <stop stop-color="#073978" offset="0%"></stop>
+            <stop stop-color="#063C97" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-246" d="M467.448536,1459.59312 L579.29205,1545.05466 L699.738912,1304.41296 L467.448536,1459.59312 Z"></path>
+        <linearGradient x1="3.53867381%" y1="0%" x2="96.4613262%" y2="100%" id="linearGradient-247">
+            <stop stop-color="#07399D" offset="0%"></stop>
+            <stop stop-color="#073C84" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-248" d="M579.29205,1545.05466 L897.6159,1545.05466 L699.738912,1304.41296 L579.29205,1545.05466 Z"></path>
+        <linearGradient x1="33.7988166%" y1="0%" x2="66.2011834%" y2="100%" id="linearGradient-249">
+            <stop stop-color="#097DA6" offset="0%"></stop>
+            <stop stop-color="#0B7F94" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-250" d="M894.748117,1016.54251 L1026.66611,850.117409 L1267.55983,940.076923 L894.748117,1016.54251 Z"></path>
+        <linearGradient x1="47.3251886%" y1="0%" x2="52.6748114%" y2="100%" id="linearGradient-251">
+            <stop stop-color="#0C6B8F" offset="0%"></stop>
+            <stop stop-color="#0F6D65" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-252" d="M894.748117,1016.54251 L1316.31213,1014.29352 L1267.55983,940.076923 L894.748117,1016.54251 Z"></path>
+        <linearGradient x1="0%" y1="39.231098%" x2="100%" y2="60.768902%" id="linearGradient-253">
+            <stop stop-color="#0C7E99" offset="0%"></stop>
+            <stop stop-color="#109488" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-254" d="M1026.66611,850.117409 L1247.48536,533.010121 L1267.55983,940.076923 L1026.66611,850.117409 Z"></path>
+        <linearGradient x1="0%" y1="35.9344953%" x2="100%" y2="64.0655047%" id="linearGradient-255">
+            <stop stop-color="#14665F" offset="0%"></stop>
+            <stop stop-color="#10505C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-256" d="M1247.48536,533.010121 L1522.79247,708.431174 L1267.55983,940.076923 L1247.48536,533.010121 Z"></path>
+        <linearGradient x1="33.813912%" y1="0%" x2="66.186088%" y2="100%" id="linearGradient-257">
+            <stop stop-color="#0F3632" offset="0%"></stop>
+            <stop stop-color="#0D4E67" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-258" d="M1316.31213,1014.29352 L1433.89121,946.823887 L1267.55983,940.076923 L1316.31213,1014.29352 Z"></path>
+        <linearGradient x1="44.025301%" y1="0%" x2="55.974699%" y2="100%" id="linearGradient-259">
+            <stop stop-color="#083E91" offset="0%"></stop>
+            <stop stop-color="#105066" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-260" d="M1433.89121,946.823887 L1499.85021,883.852227 L1267.55983,940.076923 L1433.89121,946.823887 Z"></path>
+        <linearGradient x1="0%" y1="12.668489%" x2="100%" y2="87.331511%" id="linearGradient-261">
+            <stop stop-color="#183833" offset="0%"></stop>
+            <stop stop-color="#10505A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-262" d="M1499.85021,883.852227 L1522.79247,708.431174 L1267.55983,940.076923 L1499.85021,883.852227 Z"></path>
+        <linearGradient x1="14.8283039%" y1="0%" x2="85.1716961%" y2="100%" id="linearGradient-263">
+            <stop stop-color="#0A479B" offset="0%"></stop>
+            <stop stop-color="#0A4A99" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-264" d="M3048.45272,942.325911 L3315.15649,919.836032 L3257.80084,1095.25709 L3048.45272,942.325911 Z"></path>
+        <linearGradient x1="0%" y1="42.7198753%" x2="100%" y2="57.2801247%" id="linearGradient-265">
+            <stop stop-color="#124574" offset="0%"></stop>
+            <stop stop-color="#154361" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-266" d="M3220.51967,1266.18016 L3303.68536,1189.71457 L3257.80084,1095.25709 L3220.51967,1266.18016 Z"></path>
+        <linearGradient x1="40.8547921%" y1="0%" x2="59.1452079%" y2="100%" id="linearGradient-267">
+            <stop stop-color="#0A4692" offset="0%"></stop>
+            <stop stop-color="#0A4895" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-268" d="M2801.82343,1093.0081 L3048.45272,942.325911 L3257.80084,1095.25709 L2801.82343,1093.0081 Z"></path>
+        <linearGradient x1="38.2738025%" y1="0%" x2="61.7261975%" y2="100%" id="linearGradient-269">
+            <stop stop-color="#09448F" offset="0%"></stop>
+            <stop stop-color="#094893" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-270" d="M2801.82343,1093.0081 L3220.51967,1266.18016 L3257.80084,1095.25709 L2801.82343,1093.0081 Z"></path>
+        <linearGradient x1="33.0657081%" y1="0%" x2="66.9342919%" y2="100%" id="linearGradient-271">
+            <stop stop-color="#0B4380" offset="0%"></stop>
+            <stop stop-color="#094698" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-272" d="M2391.73054,1194.21255 L2446.21841,1216.70243 L2741.6,1057.02429 L2391.73054,1194.21255 Z"></path>
+        <linearGradient x1="0%" y1="15.0872584%" x2="100%" y2="84.9127416%" id="linearGradient-273">
+            <stop stop-color="#143B4E" offset="0%"></stop>
+            <stop stop-color="#133C5B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-274" d="M2391.73054,1194.21255 L2486.36736,865.860324 L2741.6,1057.02429 L2391.73054,1194.21255 Z"></path>
+        <linearGradient x1="26.6965607%" y1="0%" x2="73.3034393%" y2="100%" id="linearGradient-275">
+            <stop stop-color="#0F4273" offset="0%"></stop>
+            <stop stop-color="#133D5F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-276" d="M2446.21841,1216.70243 L2744.46778,1194.21255 L2741.6,1057.02429 L2446.21841,1216.70243 Z"></path>
+        <linearGradient x1="0%" y1="44.0741736%" x2="100%" y2="55.9258264%" id="linearGradient-277">
+            <stop stop-color="#153D52" offset="0%"></stop>
+            <stop stop-color="#0B4384" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-278" d="M2744.46778,1194.21255 L2801.82343,1093.0081 L2741.6,1057.02429 L2744.46778,1194.21255 Z"></path>
+        <linearGradient x1="30.3956677%" y1="0%" x2="69.6043323%" y2="100%" id="linearGradient-279">
+            <stop stop-color="#094594" offset="0%"></stop>
+            <stop stop-color="#09459A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-280" d="M2801.82343,1093.0081 L3048.45272,942.325911 L2741.6,1057.02429 L2801.82343,1093.0081 Z"></path>
+        <linearGradient x1="22.8531856%" y1="0%" x2="77.1468144%" y2="100%" id="linearGradient-281">
+            <stop stop-color="#0A3C62" offset="0%"></stop>
+            <stop stop-color="#12639D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-282" d="M739.887866,692.688259 L903.351464,721.925101 L903.351464,787.145749 L739.887866,692.688259 Z"></path>
+        <linearGradient x1="0%" y1="39.8308343%" x2="100%" y2="60.1691657%" id="linearGradient-283">
+            <stop stop-color="#074194" offset="0%"></stop>
+            <stop stop-color="#074593" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-284" d="M894.748117,1016.54251 L1026.66611,850.117409 L903.351464,787.145749 L894.748117,1016.54251 Z"></path>
+        <linearGradient x1="0%" y1="21.5450908%" x2="100%" y2="78.4549092%" id="linearGradient-285">
+            <stop stop-color="#1973A3" offset="0%"></stop>
+            <stop stop-color="#074493" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-286" d="M903.351464,721.925101 L1026.66611,850.117409 L903.351464,787.145749 L903.351464,721.925101 Z"></path>
+        <linearGradient x1="0%" y1="20.1890723%" x2="100%" y2="79.8109277%" id="linearGradient-287">
+            <stop stop-color="#0C302B" offset="0%"></stop>
+            <stop stop-color="#0D302B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-288" d="M980.78159,1997.10121 L1089.75732,2172.52227 L1155.71632,1994.85223 L980.78159,1997.10121 Z"></path>
+        <linearGradient x1="17.5083299%" y1="0%" x2="82.4916701%" y2="100%" id="linearGradient-289">
+            <stop stop-color="#0E312C" offset="0%"></stop>
+            <stop stop-color="#0B2F2B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-290" d="M1089.75732,2172.52227 L1370.8,2008.34615 L1155.71632,1994.85223 L1089.75732,2172.52227 Z"></path>
+        <linearGradient x1="0%" y1="44.6833648%" x2="100%" y2="55.3166352%" id="linearGradient-291">
+            <stop stop-color="#0B417E" offset="0%"></stop>
+            <stop stop-color="#084499" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-292" d="M2391.73054,1194.21255 L2434.74728,1297.66599 L2426.14393,1234.69433 L2391.73054,1194.21255 Z"></path>
+        <linearGradient x1="5.12465374%" y1="0%" x2="94.8753463%" y2="100%" id="linearGradient-293">
+            <stop stop-color="#0C447C" offset="0%"></stop>
+            <stop stop-color="#0A4895" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-294" d="M2391.73054,1194.21255 L2446.21841,1216.70243 L2426.14393,1234.69433 L2391.73054,1194.21255 Z"></path>
+        <linearGradient x1="0%" y1="48.1095679%" x2="100%" y2="51.8904321%" id="linearGradient-295">
+            <stop stop-color="#08439C" offset="0%"></stop>
+            <stop stop-color="#0A4798" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-296" d="M2434.74728,1297.66599 L2446.21841,1216.70243 L2426.14393,1234.69433 L2434.74728,1297.66599 Z"></path>
+        <linearGradient x1="0%" y1="31.0307708%" x2="100%" y2="68.9692292%" id="linearGradient-297">
+            <stop stop-color="#113D5A" offset="0%"></stop>
+            <stop stop-color="#123632" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-298" d="M108.975732,1742.96559 L269.571548,2053.32591 L352.737238,1839.67206 L108.975732,1742.96559 Z"></path>
+        <linearGradient x1="29.0657439%" y1="0%" x2="70.9342561%" y2="100%" id="linearGradient-299">
+            <stop stop-color="#1E4967" offset="0%"></stop>
+            <stop stop-color="#486A66" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-300" d="M108.975732,1742.96559 L281.042678,1715.97773 L352.737238,1839.67206 L108.975732,1742.96559 Z"></path>
+        <linearGradient x1="22.7337278%" y1="0%" x2="77.2662722%" y2="100%" id="linearGradient-301">
+            <stop stop-color="#0E312B" offset="0%"></stop>
+            <stop stop-color="#0E332E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-302" d="M269.571548,2053.32591 L642.383264,2055.5749 L352.737238,1839.67206 L269.571548,2053.32591 Z"></path>
+        <linearGradient x1="0%" y1="37.2409395%" x2="100%" y2="62.7590605%" id="linearGradient-303">
+            <stop stop-color="#517373" offset="0%"></stop>
+            <stop stop-color="#133838" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-304" d="M281.042678,1715.97773 L421.564017,1621.52024 L352.737238,1839.67206 L281.042678,1715.97773 Z"></path>
+        <linearGradient x1="0%" y1="41.0226946%" x2="100%" y2="58.9773054%" id="linearGradient-305">
+            <stop stop-color="#0B3948" offset="0%"></stop>
+            <stop stop-color="#0C405B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-306" d="M2933.74142,1783.44737 L2945.21255,1518.0668 L3077.13054,1691.23887 L2933.74142,1783.44737 Z"></path>
+        <linearGradient x1="39.146436%" y1="0%" x2="60.853564%" y2="100%" id="linearGradient-307">
+            <stop stop-color="#0E3B48" offset="0%"></stop>
+            <stop stop-color="#0E3E52" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-308" d="M2933.74142,1783.44737 L3186.10628,1742.96559 L3077.13054,1691.23887 L2933.74142,1783.44737 Z"></path>
+        <linearGradient x1="0%" y1="32.1555068%" x2="100%" y2="67.8444932%" id="linearGradient-309">
+            <stop stop-color="#0C363E" offset="0%"></stop>
+            <stop stop-color="#0C3E56" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-310" d="M2945.21255,1518.0668 L3031.24603,1542.80567 L3077.13054,1691.23887 L2945.21255,1518.0668 Z"></path>
+        <linearGradient x1="10.2264427%" y1="0%" x2="89.7735573%" y2="100%" id="linearGradient-311">
+            <stop stop-color="#0A3A4F" offset="0%"></stop>
+            <stop stop-color="#0C3947" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-312" d="M3031.24603,1542.80567 L3243.46192,1587.78543 L3077.13054,1691.23887 L3031.24603,1542.80567 Z"></path>
+        <linearGradient x1="0%" y1="14.6712875%" x2="100%" y2="85.3287125%" id="linearGradient-313">
+            <stop stop-color="#0D4061" offset="0%"></stop>
+            <stop stop-color="#0E4368" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-314" d="M3186.10628,1742.96559 L3243.46192,1587.78543 L3077.13054,1691.23887 L3186.10628,1742.96559 Z"></path>
+        <linearGradient x1="0%" y1="32%" x2="100%" y2="68%" id="linearGradient-315">
+            <stop stop-color="#4A88AB" offset="0%"></stop>
+            <stop stop-color="#37626F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-316" d="M1207.3364,1756.45951 L1253.22092,1913.88866 L1327.78326,1812.68421 L1207.3364,1756.45951 Z"></path>
+        <linearGradient x1="24.3636641%" y1="0%" x2="75.6363359%" y2="100%" id="linearGradient-317">
+            <stop stop-color="#09376E" offset="0%"></stop>
+            <stop stop-color="#073B9E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-318" d="M433.035146,1122.24494 L441.638494,1014.29352 L209.348117,991.803644 L433.035146,1122.24494 Z"></path>
+        <linearGradient x1="20.3264746%" y1="0%" x2="79.6735254%" y2="100%" id="linearGradient-319">
+            <stop stop-color="#63807E" offset="0%"></stop>
+            <stop stop-color="#0A3657" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-320" d="M45.8845188,1225.69838 L433.035146,1122.24494 L209.348117,991.803644 L45.8845188,1225.69838 Z"></path>
+        <linearGradient x1="44.7487997%" y1="0%" x2="55.2512003%" y2="100%" id="linearGradient-321">
+            <stop stop-color="#1A9288" offset="0%"></stop>
+            <stop stop-color="#46A59E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-322" d="M800.111297,51.7267206 L1482.64351,278.874494 L1729.2728,42.7307692 L800.111297,51.7267206 Z"></path>
+        <linearGradient x1="0%" y1="32.1662809%" x2="100%" y2="67.8337191%" id="linearGradient-323">
+            <stop stop-color="#0D887E" offset="0%"></stop>
+            <stop stop-color="#448CA0" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-324" d="M1482.64351,278.874494 L1717.80167,366.58502 L1729.2728,42.7307692 L1482.64351,278.874494 Z"></path>
+        <linearGradient x1="0%" y1="41.8885031%" x2="100%" y2="58.1114969%" id="linearGradient-325">
+            <stop stop-color="#096381" offset="0%"></stop>
+            <stop stop-color="#47A39C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-326" d="M1717.80167,366.58502 L1884.13305,157.42915 L1729.2728,42.7307692 L1717.80167,366.58502 Z"></path>
+        <linearGradient x1="28.6242604%" y1="0%" x2="71.3757396%" y2="100%" id="linearGradient-327">
+            <stop stop-color="#108F83" offset="0%"></stop>
+            <stop stop-color="#79BFBA" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-328" d="M1884.13305,157.42915 L1952.95983,44.9797571 L1729.2728,42.7307692 L1884.13305,157.42915 Z"></path>
+        <linearGradient x1="0%" y1="42.7283826%" x2="100%" y2="57.2716174%" id="linearGradient-329">
+            <stop stop-color="#0E3B48" offset="0%"></stop>
+            <stop stop-color="#0D3B4A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-330" d="M2933.74142,1783.44737 L2945.21255,1518.0668 L2816.16234,1524.81377 L2933.74142,1783.44737 Z"></path>
+        <linearGradient x1="16.8974962%" y1="0%" x2="83.1025038%" y2="100%" id="linearGradient-331">
+            <stop stop-color="#0D4572" offset="0%"></stop>
+            <stop stop-color="#0D3841" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-332" d="M2472.02845,1819.43117 L2933.74142,1783.44737 L2816.16234,1524.81377 L2472.02845,1819.43117 Z"></path>
+        <linearGradient x1="0%" y1="42.78%" x2="100%" y2="57.22%" id="linearGradient-333">
+            <stop stop-color="#0D312D" offset="0%"></stop>
+            <stop stop-color="#526F6C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-334" d="M980.78159,1997.10121 L1089.75732,2172.52227 L1032.40167,2222 L980.78159,1997.10121 Z"></path>
+        <linearGradient x1="46.0250721%" y1="0%" x2="53.9749279%" y2="100%" id="linearGradient-335">
+            <stop stop-color="#0C302B" offset="0%"></stop>
+            <stop stop-color="#4F6D6A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-336" d="M269.571548,2053.32591 L642.383264,2055.5749 L1032.40167,2222 L269.571548,2053.32591 Z"></path>
+        <linearGradient x1="0%" y1="14.72%" x2="100%" y2="85.28%" id="linearGradient-337">
+            <stop stop-color="#0F7C84" offset="0%"></stop>
+            <stop stop-color="#0D8388" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-338" d="M3022.64268,600.479757 L3097.20502,622.969636 L2976.75816,510.520243 L3022.64268,600.479757 Z"></path>
+        <linearGradient x1="22.6402702%" y1="0%" x2="77.3597298%" y2="100%" id="linearGradient-339">
+            <stop stop-color="#09638E" offset="0%"></stop>
+            <stop stop-color="#0A7488" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-340" d="M3097.20502,622.969636 L3186.10628,631.965587 L2976.75816,510.520243 L3097.20502,622.969636 Z"></path>
+        <linearGradient x1="33.1968074%" y1="0%" x2="66.8031926%" y2="100%" id="linearGradient-341">
+            <stop stop-color="#0B857B" offset="0%"></stop>
+            <stop stop-color="#0C7A7D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-342" d="M2824.76569,519.516194 L3022.64268,600.479757 L2976.75816,510.520243 L2824.76569,519.516194 Z"></path>
+        <linearGradient x1="0%" y1="35.955%" x2="100%" y2="64.045%" id="linearGradient-343">
+            <stop stop-color="#0B867C" offset="0%"></stop>
+            <stop stop-color="#119A92" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-344" d="M2824.76569,519.516194 L2830.50126,294.617409 L2976.75816,510.520243 L2824.76569,519.516194 Z"></path>
+        <linearGradient x1="0%" y1="24.795%" x2="100%" y2="75.205%" id="linearGradient-345">
+            <stop stop-color="#0D3334" offset="0%"></stop>
+            <stop stop-color="#507682" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-346" d="M1815.30628,2028.58704 L2018.91883,2208.50607 L1930.01757,1983.60729 L1815.30628,2028.58704 Z"></path>
+        <linearGradient x1="26.0006835%" y1="0%" x2="73.9993165%" y2="100%" id="linearGradient-347">
+            <stop stop-color="#708B89" offset="0%"></stop>
+            <stop stop-color="#0D373F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-348" d="M2018.91883,2208.50607 L2368.78828,1970.11336 L1930.01757,1983.60729 L2018.91883,2208.50607 Z"></path>
+        <linearGradient x1="37.6628647%" y1="0%" x2="62.3371353%" y2="100%" id="linearGradient-349">
+            <stop stop-color="#0E3C4D" offset="0%"></stop>
+            <stop stop-color="#0E373F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-350" d="M2030.38996,1812.68421 L2368.78828,1970.11336 L1930.01757,1983.60729 L2030.38996,1812.68421 Z"></path>
+        <linearGradient x1="0%" y1="16.1804524%" x2="100%" y2="83.8195476%" id="linearGradient-351">
+            <stop stop-color="#0A6788" offset="0%"></stop>
+            <stop stop-color="#0A587F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-352" d="M699.738912,1304.41296 L897.6159,1545.05466 L952.103766,1407.8664 L699.738912,1304.41296 Z"></path>
+        <linearGradient x1="0%" y1="7.09695291%" x2="100%" y2="92.9030471%" id="linearGradient-353">
+            <stop stop-color="#0A5B80" offset="0%"></stop>
+            <stop stop-color="#0B667E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-354" d="M699.738912,1304.41296 L949.235983,1194.21255 L952.103766,1407.8664 L699.738912,1304.41296 Z"></path>
+        <linearGradient x1="0%" y1="42.3210373%" x2="100%" y2="57.6789627%" id="linearGradient-355">
+            <stop stop-color="#083B74" offset="0%"></stop>
+            <stop stop-color="#0A3C6E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-356" d="M897.6159,1545.05466 L980.78159,1574.2915 L952.103766,1407.8664 L897.6159,1545.05466 Z"></path>
+        <linearGradient x1="0%" y1="26.7791495%" x2="100%" y2="73.2208505%" id="linearGradient-357">
+            <stop stop-color="#0A5F81" offset="0%"></stop>
+            <stop stop-color="#074390" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-358" d="M949.235983,1194.21255 L1213.07197,1497.82591 L952.103766,1407.8664 L949.235983,1194.21255 Z"></path>
+        <linearGradient x1="0%" y1="23.3747261%" x2="100%" y2="76.6252739%" id="linearGradient-359">
+            <stop stop-color="#0B3959" offset="0%"></stop>
+            <stop stop-color="#083F7E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-360" d="M980.78159,1574.2915 L1106.96402,1549.55263 L952.103766,1407.8664 L980.78159,1574.2915 Z"></path>
+        <linearGradient x1="26.035503%" y1="0%" x2="73.964497%" y2="100%" id="linearGradient-361">
+            <stop stop-color="#08417A" offset="0%"></stop>
+            <stop stop-color="#07438E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-362" d="M1106.96402,1549.55263 L1213.07197,1497.82591 L952.103766,1407.8664 L1106.96402,1549.55263 Z"></path>
+        <linearGradient x1="42.1092137%" y1="0%" x2="57.8907863%" y2="100%" id="linearGradient-363">
+            <stop stop-color="#073E7D" offset="0%"></stop>
+            <stop stop-color="#095B8E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-364" d="M412.960669,476.785425 L906.219247,281.123482 L278.174895,314.8583 L412.960669,476.785425 Z"></path>
+        <linearGradient x1="0%" y1="24.1699219%" x2="100%" y2="75.8300781%" id="linearGradient-365">
+            <stop stop-color="#0B3D64" offset="0%"></stop>
+            <stop stop-color="#0C535E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-366" d="M149.124686,602.728745 L412.960669,476.785425 L278.174895,314.8583 L149.124686,602.728745 Z"></path>
+        <linearGradient x1="43.6790123%" y1="0%" x2="56.3209877%" y2="100%" id="linearGradient-367">
+            <stop stop-color="#0B2F2B" offset="0%"></stop>
+            <stop stop-color="#0C302C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-368" d="M980.78159,1997.10121 L980.78159,1983.60729 L1109.8318,1961.11741 L980.78159,1997.10121 Z"></path>
+        <linearGradient x1="0%" y1="12.5554734%" x2="100%" y2="87.4445266%" id="linearGradient-369">
+            <stop stop-color="#264844" offset="0%"></stop>
+            <stop stop-color="#325D65" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-370" d="M980.78159,1983.60729 L1006.59163,1866.65992 L1109.8318,1961.11741 L980.78159,1983.60729 Z"></path>
+        <linearGradient x1="46.5600645%" y1="0%" x2="53.4399355%" y2="100%" id="linearGradient-371">
+            <stop stop-color="#0C302C" offset="0%"></stop>
+            <stop stop-color="#0C302C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-372" d="M980.78159,1997.10121 L1155.71632,1994.85223 L1109.8318,1961.11741 L980.78159,1997.10121 Z"></path>
+        <linearGradient x1="38.0746349%" y1="0%" x2="61.9253651%" y2="100%" id="linearGradient-373">
+            <stop stop-color="#6293A8" offset="0%"></stop>
+            <stop stop-color="#3F6265" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-374" d="M1006.59163,1866.65992 L1253.22092,1913.88866 L1109.8318,1961.11741 L1006.59163,1866.65992 Z"></path>
+        <linearGradient x1="0%" y1="34.1301329%" x2="100%" y2="65.8698671%" id="linearGradient-375">
+            <stop stop-color="#0C373F" offset="0%"></stop>
+            <stop stop-color="#0A3D68" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-376" d="M2945.21255,1518.0668 L3031.24603,1542.80567 L2916.53473,1383.12753 L2945.21255,1518.0668 Z"></path>
+        <linearGradient x1="19.6620499%" y1="0%" x2="80.3379501%" y2="100%" id="linearGradient-377">
+            <stop stop-color="#124259" offset="0%"></stop>
+            <stop stop-color="#0D417C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-378" d="M3031.24603,1542.80567 L3188.97406,1376.38057 L2916.53473,1383.12753 L3031.24603,1542.80567 Z"></path>
+        <linearGradient x1="37.9672481%" y1="0%" x2="62.0327519%" y2="100%" id="linearGradient-379">
+            <stop stop-color="#07439D" offset="0%"></stop>
+            <stop stop-color="#08449B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-380" d="M3188.97406,1376.38057 L3220.51967,1266.18016 L2916.53473,1383.12753 L3188.97406,1376.38057 Z"></path>
+        <linearGradient x1="0%" y1="12.2378118%" x2="100%" y2="87.7621882%" id="linearGradient-381">
+            <stop stop-color="#0A479B" offset="0%"></stop>
+            <stop stop-color="#0F3F79" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-382" d="M2707.18661,1338.14777 L2744.46778,1194.21255 L2916.53473,1383.12753 L2707.18661,1338.14777 Z"></path>
+        <linearGradient x1="0%" y1="39.1833423%" x2="100%" y2="60.8166577%" id="linearGradient-383">
+            <stop stop-color="#13406A" offset="0%"></stop>
+            <stop stop-color="#094494" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-384" d="M2744.46778,1194.21255 L2801.82343,1093.0081 L2916.53473,1383.12753 L2744.46778,1194.21255 Z"></path>
+        <linearGradient x1="10.9659411%" y1="0%" x2="89.0340589%" y2="100%" id="linearGradient-385">
+            <stop stop-color="#0A4794" offset="0%"></stop>
+            <stop stop-color="#0A469A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-386" d="M2801.82343,1093.0081 L3220.51967,1266.18016 L2916.53473,1383.12753 L2801.82343,1093.0081 Z"></path>
+        <linearGradient x1="0%" y1="24.4897959%" x2="100%" y2="75.5102041%" id="linearGradient-387">
+            <stop stop-color="#0B3436" offset="0%"></stop>
+            <stop stop-color="#0A3B5E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-388" d="M2816.16234,1524.81377 L2945.21255,1518.0668 L2916.53473,1383.12753 L2816.16234,1524.81377 Z"></path>
+        <linearGradient x1="0%" y1="26.6640525%" x2="100%" y2="73.3359475%" id="linearGradient-389">
+            <stop stop-color="#0F3330" offset="0%"></stop>
+            <stop stop-color="#90A9A7" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-390" d="M3183.23849,2129.7915 L3381.11548,1992.60324 L3226.25523,2219.75101 L3183.23849,2129.7915 Z"></path>
+        <linearGradient x1="44.7406866%" y1="0%" x2="55.2593134%" y2="100%" id="linearGradient-391">
+            <stop stop-color="#0B3337" offset="0%"></stop>
+            <stop stop-color="#0B3751" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-392" d="M433.035146,1122.24494 L673.92887,1043.53036 L751.358996,1124.49393 L433.035146,1122.24494 Z"></path>
+        <linearGradient x1="23.3747261%" y1="0%" x2="76.6252739%" y2="100%" id="linearGradient-393">
+            <stop stop-color="#08376B" offset="0%"></stop>
+            <stop stop-color="#063E91" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-394" d="M433.035146,1122.24494 L699.738912,1304.41296 L751.358996,1124.49393 L433.035146,1122.24494 Z"></path>
+        <linearGradient x1="7.72228828%" y1="0%" x2="92.2777117%" y2="100%" id="linearGradient-395">
+            <stop stop-color="#0F759F" offset="0%"></stop>
+            <stop stop-color="#0F7691" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-396" d="M699.738912,1304.41296 L949.235983,1194.21255 L751.358996,1124.49393 L699.738912,1304.41296 Z"></path>
+        <linearGradient x1="0%" y1="7.68%" x2="100%" y2="92.32%" id="linearGradient-397">
+            <stop stop-color="#0C4F97" offset="0%"></stop>
+            <stop stop-color="#0C5D89" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-398" d="M845.995816,1025.53846 L949.235983,1194.21255 L751.358996,1124.49393 L845.995816,1025.53846 Z"></path>
+        <linearGradient x1="0%" y1="33.308642%" x2="100%" y2="66.691358%" id="linearGradient-399">
+            <stop stop-color="#305966" offset="0%"></stop>
+            <stop stop-color="#274E57" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-400" d="M1253.22092,1913.88866 L1327.78326,1812.68421 L1281.89874,1911.63968 L1253.22092,1913.88866 Z"></path>
+        <linearGradient x1="0%" y1="35.7777778%" x2="100%" y2="64.2222222%" id="linearGradient-401">
+            <stop stop-color="#4C8DAD" offset="0%"></stop>
+            <stop stop-color="#35729F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-402" d="M1207.3364,1756.45951 L1213.07197,1497.82591 L1390.87448,1767.70445 L1207.3364,1756.45951 Z"></path>
+        <linearGradient x1="42.3706055%" y1="0%" x2="57.6293945%" y2="100%" id="linearGradient-403">
+            <stop stop-color="#4B89A9" offset="0%"></stop>
+            <stop stop-color="#3D7085" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-404" d="M1207.3364,1756.45951 L1327.78326,1812.68421 L1390.87448,1767.70445 L1207.3364,1756.45951 Z"></path>
+        <linearGradient x1="0%" y1="1.65277778%" x2="100%" y2="98.3472222%" id="linearGradient-405">
+            <stop stop-color="#2D5E6D" offset="0%"></stop>
+            <stop stop-color="#4B8AA8" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-406" d="M1548.60251,1886.90081 L1560.07364,1751.96154 L1390.87448,1767.70445 L1548.60251,1886.90081 Z"></path>
+        <linearGradient x1="0%" y1="39.9524376%" x2="100%" y2="60.0475624%" id="linearGradient-407">
+            <stop stop-color="#06386A" offset="0%"></stop>
+            <stop stop-color="#083D6C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-408" d="M2434.74728,1297.66599 L2472.02845,1819.43117 L2732.99665,1416.86235 L2434.74728,1297.66599 Z"></path>
+        <linearGradient x1="37.014608%" y1="0%" x2="62.985392%" y2="100%" id="linearGradient-409">
+            <stop stop-color="#0945A0" offset="0%"></stop>
+            <stop stop-color="#0A4699" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-410" d="M2434.74728,1297.66599 L2707.18661,1338.14777 L2732.99665,1416.86235 L2434.74728,1297.66599 Z"></path>
+        <linearGradient x1="0%" y1="27.5287912%" x2="100%" y2="72.4712088%" id="linearGradient-411">
+            <stop stop-color="#0B4981" offset="0%"></stop>
+            <stop stop-color="#0A3F6B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-412" d="M2472.02845,1819.43117 L2816.16234,1524.81377 L2732.99665,1416.86235 L2472.02845,1819.43117 Z"></path>
+        <linearGradient x1="38.5062864%" y1="0%" x2="61.4937136%" y2="100%" id="linearGradient-413">
+            <stop stop-color="#0A479A" offset="0%"></stop>
+            <stop stop-color="#084294" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-414" d="M2707.18661,1338.14777 L2916.53473,1383.12753 L2732.99665,1416.86235 L2707.18661,1338.14777 Z"></path>
+        <linearGradient x1="1.55029297%" y1="0%" x2="98.449707%" y2="100%" id="linearGradient-415">
+            <stop stop-color="#0C373C" offset="0%"></stop>
+            <stop stop-color="#093E79" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-416" d="M2816.16234,1524.81377 L2916.53473,1383.12753 L2732.99665,1416.86235 L2816.16234,1524.81377 Z"></path>
+        <linearGradient x1="0%" y1="37.5%" x2="100%" y2="62.5%" id="linearGradient-417">
+            <stop stop-color="#1A9289" offset="0%"></stop>
+            <stop stop-color="#14798D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-418" d="M800.111297,51.7267206 L906.219247,281.123482 L759.962343,51.7267206 L800.111297,51.7267206 Z"></path>
+        <linearGradient x1="48.0559413%" y1="0%" x2="51.9440587%" y2="100%" id="linearGradient-419">
+            <stop stop-color="#2F9E94" offset="0%"></stop>
+            <stop stop-color="#6CB8B3" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-420" d="M157.728033,94.4574899 L768.56569,0 L759.962343,51.7267206 L157.728033,94.4574899 Z"></path>
+        <linearGradient x1="34.4795918%" y1="0%" x2="65.5204082%" y2="100%" id="linearGradient-421">
+            <stop stop-color="#118F83" offset="0%"></stop>
+            <stop stop-color="#168F84" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-422" d="M157.728033,94.4574899 L278.174895,314.8583 L759.962343,51.7267206 L157.728033,94.4574899 Z"></path>
+        <linearGradient x1="35.7290298%" y1="0%" x2="64.2709702%" y2="100%" id="linearGradient-423">
+            <stop stop-color="#0E8A80" offset="0%"></stop>
+            <stop stop-color="#14788D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-424" d="M278.174895,314.8583 L906.219247,281.123482 L759.962343,51.7267206 L278.174895,314.8583 Z"></path>
+        <linearGradient x1="39.4651975%" y1="0%" x2="60.5348025%" y2="100%" id="linearGradient-425">
+            <stop stop-color="#0B3C65" offset="0%"></stop>
+            <stop stop-color="#093C81" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-426" d="M1316.31213,1014.29352 L1433.89121,946.823887 L1666.18159,1072.76721 L1316.31213,1014.29352 Z"></path>
+        <linearGradient x1="0%" y1="3.50765306%" x2="100%" y2="96.4923469%" id="linearGradient-427">
+            <stop stop-color="#083F94" offset="0%"></stop>
+            <stop stop-color="#0F3B5F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-428" d="M1433.89121,946.823887 L1499.85021,883.852227 L1666.18159,1072.76721 L1433.89121,946.823887 Z"></path>
+        <linearGradient x1="0%" y1="40.3816559%" x2="100%" y2="59.6183441%" id="linearGradient-429">
+            <stop stop-color="#16393B" offset="0%"></stop>
+            <stop stop-color="#0C3B62" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-430" d="M1499.85021,883.852227 L1714.93389,688.190283 L1666.18159,1072.76721 L1499.85021,883.852227 Z"></path>
+        <linearGradient x1="0%" y1="26.1909647%" x2="100%" y2="73.8090353%" id="linearGradient-431">
+            <stop stop-color="#084190" offset="0%"></stop>
+            <stop stop-color="#0A3E7B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-432" d="M1714.93389,688.190283 L2004.57992,951.321862 L1666.18159,1072.76721 L1714.93389,688.190283 Z"></path>
+        <linearGradient x1="0%" y1="15.9543254%" x2="100%" y2="84.0456746%" id="linearGradient-433">
+            <stop stop-color="#123D65" offset="0%"></stop>
+            <stop stop-color="#103A5B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-434" d="M1841.11632,1272.92713 L2004.57992,951.321862 L1666.18159,1072.76721 L1841.11632,1272.92713 Z"></path>
+        <linearGradient x1="26.2716049%" y1="0%" x2="73.7283951%" y2="100%" id="linearGradient-435">
+            <stop stop-color="#06418A" offset="0%"></stop>
+            <stop stop-color="#063F8C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-436" d="M536.275314,755.659919 L607.969874,685.941296 L665.325523,697.186235 L536.275314,755.659919 Z"></path>
+        <linearGradient x1="0%" y1="2.17365053%" x2="100%" y2="97.8263495%" id="linearGradient-437">
+            <stop stop-color="#073E77" offset="0%"></stop>
+            <stop stop-color="#063D79" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-438" d="M607.969874,685.941296 L863.20251,492.52834 L665.325523,697.186235 L607.969874,685.941296 Z"></path>
+        <linearGradient x1="0%" y1="21.2534718%" x2="100%" y2="78.7465282%" id="linearGradient-439">
+            <stop stop-color="#0A3749" offset="0%"></stop>
+            <stop stop-color="#073E7B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-440" d="M739.887866,692.688259 L863.20251,492.52834 L665.325523,697.186235 L739.887866,692.688259 Z"></path>
+        <linearGradient x1="0%" y1="30.6652073%" x2="100%" y2="69.3347927%" id="linearGradient-441">
+            <stop stop-color="#0E3431" offset="0%"></stop>
+            <stop stop-color="#103759" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-442" d="M352.737238,1839.67206 L421.564017,1621.52024 L564.953138,1572.04251 L352.737238,1839.67206 Z"></path>
+        <linearGradient x1="0%" y1="25.8873457%" x2="100%" y2="74.1126543%" id="linearGradient-443">
+            <stop stop-color="#123B69" offset="0%"></stop>
+            <stop stop-color="#073585" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-444" d="M421.564017,1621.52024 L467.448536,1459.59312 L564.953138,1572.04251 L421.564017,1621.52024 Z"></path>
+        <linearGradient x1="0%" y1="19.58%" x2="100%" y2="80.42%" id="linearGradient-445">
+            <stop stop-color="#08367C" offset="0%"></stop>
+            <stop stop-color="#0737A0" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-446" d="M467.448536,1459.59312 L579.29205,1545.05466 L564.953138,1572.04251 L467.448536,1459.59312 Z"></path>
+        <linearGradient x1="47.7502296%" y1="0%" x2="52.2497704%" y2="100%" id="linearGradient-447">
+            <stop stop-color="#08359E" offset="0%"></stop>
+            <stop stop-color="#07379B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-448" d="M579.29205,1545.05466 L848.863598,1592.2834 L564.953138,1572.04251 L579.29205,1545.05466 Z"></path>
+        <linearGradient x1="0%" y1="32.9472%" x2="100%" y2="67.0528%" id="linearGradient-449">
+            <stop stop-color="#0C857A" offset="0%"></stop>
+            <stop stop-color="#0E8A8A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-450" d="M2976.75816,510.520243 L3186.10628,631.965587 L3042.71715,350.842105 L2976.75816,510.520243 Z"></path>
+        <linearGradient x1="0.790501386%" y1="0%" x2="99.2094986%" y2="100%" id="linearGradient-451">
+            <stop stop-color="#0D878E" offset="0%"></stop>
+            <stop stop-color="#50ADA5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-452" d="M3186.10628,631.965587 L3404.05774,447.548583 L3042.71715,350.842105 L3186.10628,631.965587 Z"></path>
+        <linearGradient x1="0%" y1="16.3379356%" x2="100%" y2="83.6620644%" id="linearGradient-453">
+            <stop stop-color="#77C2BC" offset="0%"></stop>
+            <stop stop-color="#51B0A7" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-454" d="M3383.98326,0 L3409.79331,303.61336 L3042.71715,350.842105 L3383.98326,0 Z"></path>
+        <linearGradient x1="37.5%" y1="0%" x2="62.5%" y2="100%" id="linearGradient-455">
+            <stop stop-color="#71BCB6" offset="0%"></stop>
+            <stop stop-color="#51AEA6" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-456" d="M3404.05774,447.548583 L3409.79331,303.61336 L3042.71715,350.842105 L3404.05774,447.548583 Z"></path>
+        <linearGradient x1="28.1528296%" y1="0%" x2="71.8471704%" y2="100%" id="linearGradient-457">
+            <stop stop-color="#0F978A" offset="0%"></stop>
+            <stop stop-color="#54B3AA" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-458" d="M2707.18661,101.204453 L3383.98326,0 L3042.71715,350.842105 L2707.18661,101.204453 Z"></path>
+        <linearGradient x1="4.99671269%" y1="0%" x2="95.0032873%" y2="100%" id="linearGradient-459">
+            <stop stop-color="#14ADA2" offset="0%"></stop>
+            <stop stop-color="#17B3AA" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-460" d="M2707.18661,101.204453 L2830.50126,294.617409 L3042.71715,350.842105 L2707.18661,101.204453 Z"></path>
+        <linearGradient x1="0%" y1="20.2907986%" x2="100%" y2="79.7092014%" id="linearGradient-461">
+            <stop stop-color="#16AAA1" offset="0%"></stop>
+            <stop stop-color="#0F8D80" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-462" d="M2830.50126,294.617409 L2976.75816,510.520243 L3042.71715,350.842105 L2830.50126,294.617409 Z"></path>
+        <linearGradient x1="4.305605%" y1="0%" x2="95.694395%" y2="100%" id="linearGradient-463">
+            <stop stop-color="#0A578B" offset="0%"></stop>
+            <stop stop-color="#094698" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-464" d="M3022.64268,600.479757 L3048.45272,942.325911 L2592.47531,854.615385 L3022.64268,600.479757 Z"></path>
+        <linearGradient x1="0%" y1="32.6989619%" x2="100%" y2="67.3010381%" id="linearGradient-465">
+            <stop stop-color="#124065" offset="0%"></stop>
+            <stop stop-color="#084594" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-466" d="M2477.76402,854.615385 L2483.49958,701.684211 L2592.47531,854.615385 L2477.76402,854.615385 Z"></path>
+        <linearGradient x1="49.21875%" y1="0%" x2="50.78125%" y2="100%" id="linearGradient-467">
+            <stop stop-color="#133B53" offset="0%"></stop>
+            <stop stop-color="#0E3E6F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-468" d="M2477.76402,854.615385 L2486.36736,865.860324 L2592.47531,854.615385 L2477.76402,854.615385 Z"></path>
+        <linearGradient x1="0%" y1="18.1072925%" x2="100%" y2="81.8927075%" id="linearGradient-469">
+            <stop stop-color="#074893" offset="0%"></stop>
+            <stop stop-color="#095C8D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-470" d="M2483.49958,701.684211 L2824.76569,519.516194 L2592.47531,854.615385 L2483.49958,701.684211 Z"></path>
+        <linearGradient x1="0%" y1="1.10493827%" x2="100%" y2="98.8950617%" id="linearGradient-471">
+            <stop stop-color="#0E3E72" offset="0%"></stop>
+            <stop stop-color="#08429A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-472" d="M2486.36736,865.860324 L2741.6,1057.02429 L2592.47531,854.615385 L2486.36736,865.860324 Z"></path>
+        <linearGradient x1="33.9800641%" y1="0%" x2="66.0199359%" y2="100%" id="linearGradient-473">
+            <stop stop-color="#094398" offset="0%"></stop>
+            <stop stop-color="#0A449A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-474" d="M2741.6,1057.02429 L3048.45272,942.325911 L2592.47531,854.615385 L2741.6,1057.02429 Z"></path>
+        <linearGradient x1="0.664444444%" y1="0%" x2="99.3355556%" y2="100%" id="linearGradient-475">
+            <stop stop-color="#0A8588" offset="0%"></stop>
+            <stop stop-color="#0A6590" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-476" d="M2824.76569,519.516194 L3022.64268,600.479757 L2592.47531,854.615385 L2824.76569,519.516194 Z"></path>
+        <linearGradient x1="42.5078044%" y1="0%" x2="57.4921956%" y2="100%" id="linearGradient-477">
+            <stop stop-color="#0D3644" offset="0%"></stop>
+            <stop stop-color="#215266" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-478" d="M1548.60251,1886.90081 L1600.22259,1778.94939 L1904.20753,1868.90891 L1548.60251,1886.90081 Z"></path>
+        <linearGradient x1="33.6075702%" y1="0%" x2="66.3924298%" y2="100%" id="linearGradient-479">
+            <stop stop-color="#0C302D" offset="0%"></stop>
+            <stop stop-color="#0C2F2C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-480" d="M1548.60251,1886.90081 L1815.30628,2028.58704 L1904.20753,1868.90891 L1548.60251,1886.90081 Z"></path>
+        <linearGradient x1="0%" y1="34.1301329%" x2="100%" y2="65.8698671%" id="linearGradient-481">
+            <stop stop-color="#0E312C" offset="0%"></stop>
+            <stop stop-color="#0D373F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-482" d="M1815.30628,2028.58704 L1930.01757,1983.60729 L1904.20753,1868.90891 L1815.30628,2028.58704 Z"></path>
+        <linearGradient x1="0%" y1="33.2409972%" x2="100%" y2="66.7590028%" id="linearGradient-483">
+            <stop stop-color="#0D3A49" offset="0%"></stop>
+            <stop stop-color="#0C3742" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-484" d="M1930.01757,1983.60729 L2030.38996,1812.68421 L1904.20753,1868.90891 L1930.01757,1983.60729 Z"></path>
+        <linearGradient x1="0%" y1="43.1643246%" x2="100%" y2="56.8356754%" id="linearGradient-485">
+            <stop stop-color="#083E9D" offset="0%"></stop>
+            <stop stop-color="#0B3C66" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-486" d="M1993.10879,1601.27935 L2030.38996,1812.68421 L1904.20753,1868.90891 L1993.10879,1601.27935 Z"></path>
+        <linearGradient x1="0%" y1="25.7651017%" x2="100%" y2="74.2348983%" id="linearGradient-487">
+            <stop stop-color="#0A3963" offset="0%"></stop>
+            <stop stop-color="#083A6E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-488" d="M361.340586,775.90081 L464.580753,953.57085 L306.85272,913.089069 L361.340586,775.90081 Z"></path>
+        <linearGradient x1="16.5289256%" y1="0%" x2="83.4710744%" y2="100%" id="linearGradient-489">
+            <stop stop-color="#07387F" offset="0%"></stop>
+            <stop stop-color="#08375D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-490" d="M441.638494,1014.29352 L464.580753,953.57085 L306.85272,913.089069 L441.638494,1014.29352 Z"></path>
+        <linearGradient x1="34.5679012%" y1="0%" x2="65.4320988%" y2="100%" id="linearGradient-491">
+            <stop stop-color="#073A83" offset="0%"></stop>
+            <stop stop-color="#08376B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-492" d="M209.348117,991.803644 L441.638494,1014.29352 L306.85272,913.089069 L209.348117,991.803644 Z"></path>
+        <linearGradient x1="0%" y1="15.0497178%" x2="100%" y2="84.9502822%" id="linearGradient-493">
+            <stop stop-color="#0B3443" offset="0%"></stop>
+            <stop stop-color="#0B3540" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-494" d="M215.083682,798.390688 L361.340586,775.90081 L306.85272,913.089069 L215.083682,798.390688 Z"></path>
+        <linearGradient x1="5.500178%" y1="0%" x2="94.499822%" y2="100%" id="linearGradient-495">
+            <stop stop-color="#1C4462" offset="0%"></stop>
+            <stop stop-color="#153B4F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-496" d="M1281.89874,1911.63968 L1327.78326,1812.68421 L1433.89121,1925.1336 L1281.89874,1911.63968 Z"></path>
+        <linearGradient x1="17.0879316%" y1="0%" x2="82.9120684%" y2="100%" id="linearGradient-497">
+            <stop stop-color="#1C3F3C" offset="0%"></stop>
+            <stop stop-color="#0D302C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-498" d="M1281.89874,1911.63968 L1370.8,2008.34615 L1433.89121,1925.1336 L1281.89874,1911.63968 Z"></path>
+        <linearGradient x1="0%" y1="36.0306122%" x2="100%" y2="63.9693878%" id="linearGradient-499">
+            <stop stop-color="#2C535D" offset="0%"></stop>
+            <stop stop-color="#2F5D6B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-500" d="M1327.78326,1812.68421 L1390.87448,1767.70445 L1433.89121,1925.1336 L1327.78326,1812.68421 Z"></path>
+        <linearGradient x1="12.0707596%" y1="0%" x2="87.9292404%" y2="100%" id="linearGradient-501">
+            <stop stop-color="#0D312D" offset="0%"></stop>
+            <stop stop-color="#0E312E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-502" d="M1370.8,2008.34615 L1548.60251,1886.90081 L1433.89121,1925.1336 L1370.8,2008.34615 Z"></path>
+        <linearGradient x1="0%" y1="19.1326531%" x2="100%" y2="80.8673469%" id="linearGradient-503">
+            <stop stop-color="#286093" offset="0%"></stop>
+            <stop stop-color="#0C354B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-504" d="M1390.87448,1767.70445 L1548.60251,1886.90081 L1433.89121,1925.1336 L1390.87448,1767.70445 Z"></path>
+        <linearGradient x1="0%" y1="21.875%" x2="100%" y2="78.125%" id="linearGradient-505">
+            <stop stop-color="#0A3660" offset="0%"></stop>
+            <stop stop-color="#073A7D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-506" d="M673.92887,1043.53036 L751.358996,1124.49393 L748.491213,1090.75911 L673.92887,1043.53036 Z"></path>
+        <linearGradient x1="38.3194444%" y1="0%" x2="61.6805556%" y2="100%" id="linearGradient-507">
+            <stop stop-color="#0A3868" offset="0%"></stop>
+            <stop stop-color="#073B85" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-508" d="M673.92887,1043.53036 L845.995816,1025.53846 L748.491213,1090.75911 L673.92887,1043.53036 Z"></path>
+        <linearGradient x1="0%" y1="20.1446281%" x2="100%" y2="79.8553719%" id="linearGradient-509">
+            <stop stop-color="#073D90" offset="0%"></stop>
+            <stop stop-color="#073B82" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-510" d="M751.358996,1124.49393 L845.995816,1025.53846 L748.491213,1090.75911 L751.358996,1124.49393 Z"></path>
+        <linearGradient x1="0%" y1="1.09886756%" x2="100%" y2="98.9011324%" id="linearGradient-511">
+            <stop stop-color="#133937" offset="0%"></stop>
+            <stop stop-color="#0D3558" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-512" d="M352.737238,1839.67206 L564.953138,1572.04251 L866.070293,1979.10931 L352.737238,1839.67206 Z"></path>
+        <linearGradient x1="35.6184264%" y1="0%" x2="64.3815736%" y2="100%" id="linearGradient-513">
+            <stop stop-color="#0F3633" offset="0%"></stop>
+            <stop stop-color="#0D322F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-514" d="M352.737238,1839.67206 L642.383264,2055.5749 L866.070293,1979.10931 L352.737238,1839.67206 Z"></path>
+        <linearGradient x1="0%" y1="33.1735905%" x2="100%" y2="66.8264095%" id="linearGradient-515">
+            <stop stop-color="#4E75AE" offset="0%"></stop>
+            <stop stop-color="#376180" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-516" d="M564.953138,1572.04251 L848.863598,1592.2834 L866.070293,1979.10931 L564.953138,1572.04251 Z"></path>
+        <linearGradient x1="18.4688581%" y1="0%" x2="81.5311419%" y2="100%" id="linearGradient-517">
+            <stop stop-color="#0D302C" offset="0%"></stop>
+            <stop stop-color="#4F6D6B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-518" d="M642.383264,2055.5749 L1032.40167,2222 L866.070293,1979.10931 L642.383264,2055.5749 Z"></path>
+        <linearGradient x1="0%" y1="44.8874392%" x2="100%" y2="55.1125608%" id="linearGradient-519">
+            <stop stop-color="#4876A8" offset="0%"></stop>
+            <stop stop-color="#4B7885" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-520" d="M848.863598,1592.2834 L1006.59163,1866.65992 L866.070293,1979.10931 L848.863598,1592.2834 Z"></path>
+        <linearGradient x1="48%" y1="0%" x2="52%" y2="100%" id="linearGradient-521">
+            <stop stop-color="#0B2F2C" offset="0%"></stop>
+            <stop stop-color="#0B302D" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-522" d="M980.78159,1997.10121 L980.78159,1983.60729 L866.070293,1979.10931 L980.78159,1997.10121 Z"></path>
+        <linearGradient x1="0%" y1="5.60281065%" x2="100%" y2="94.3971893%" id="linearGradient-523">
+            <stop stop-color="#264947" offset="0%"></stop>
+            <stop stop-color="#325E67" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-524" d="M980.78159,1983.60729 L1006.59163,1866.65992 L866.070293,1979.10931 L980.78159,1983.60729 Z"></path>
+        <linearGradient x1="0%" y1="35.579561%" x2="100%" y2="64.420439%" id="linearGradient-525">
+            <stop stop-color="#0C2F2B" offset="0%"></stop>
+            <stop stop-color="#4F6D6B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-526" d="M980.78159,1997.10121 L1032.40167,2222 L866.070293,1979.10931 L980.78159,1997.10121 Z"></path>
+        <linearGradient x1="0%" y1="34.424013%" x2="100%" y2="65.575987%" id="linearGradient-527">
+            <stop stop-color="#073D73" offset="0%"></stop>
+            <stop stop-color="#0A3A61" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-528" d="M1213.07197,1497.82591 L1316.31213,1014.29352 L1557.20586,1412.36437 L1213.07197,1497.82591 Z"></path>
+        <linearGradient x1="0%" y1="21.1584682%" x2="100%" y2="78.8415318%" id="linearGradient-529">
+            <stop stop-color="#083C6B" offset="0%"></stop>
+            <stop stop-color="#1E527F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-530" d="M1213.07197,1497.82591 L1390.87448,1767.70445 L1557.20586,1412.36437 L1213.07197,1497.82591 Z"></path>
+        <linearGradient x1="0%" y1="26.245651%" x2="100%" y2="73.754349%" id="linearGradient-531">
+            <stop stop-color="#0A3964" offset="0%"></stop>
+            <stop stop-color="#093B81" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-532" d="M1316.31213,1014.29352 L1666.18159,1072.76721 L1557.20586,1412.36437 L1316.31213,1014.29352 Z"></path>
+        <linearGradient x1="0%" y1="43.0279603%" x2="100%" y2="56.9720397%" id="linearGradient-533">
+            <stop stop-color="#295C84" offset="0%"></stop>
+            <stop stop-color="#1F568F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-534" d="M1390.87448,1767.70445 L1560.07364,1751.96154 L1557.20586,1412.36437 L1390.87448,1767.70445 Z"></path>
+        <linearGradient x1="0%" y1="33.4020438%" x2="100%" y2="66.5979562%" id="linearGradient-535">
+            <stop stop-color="#2C69A0" offset="0%"></stop>
+            <stop stop-color="#0A4392" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-536" d="M1560.07364,1751.96154 L1806.70293,1457.34413 L1557.20586,1412.36437 L1560.07364,1751.96154 Z"></path>
+        <linearGradient x1="0%" y1="28.5075216%" x2="100%" y2="71.4924784%" id="linearGradient-537">
+            <stop stop-color="#093C7A" offset="0%"></stop>
+            <stop stop-color="#084198" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-538" d="M1666.18159,1072.76721 L1841.11632,1272.92713 L1557.20586,1412.36437 L1666.18159,1072.76721 Z"></path>
+        <linearGradient x1="15.6973778%" y1="0%" x2="84.3026222%" y2="100%" id="linearGradient-539">
+            <stop stop-color="#094186" offset="0%"></stop>
+            <stop stop-color="#08408F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-540" d="M1806.70293,1457.34413 L1841.11632,1272.92713 L1557.20586,1412.36437 L1806.70293,1457.34413 Z"></path>
+        <linearGradient x1="6.17926664%" y1="0%" x2="93.8207334%" y2="100%" id="linearGradient-541">
+            <stop stop-color="#0A3659" offset="0%"></stop>
+            <stop stop-color="#083A72" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-542" d="M464.580753,953.57085 L536.275314,755.659919 L734.152301,897.346154 L464.580753,953.57085 Z"></path>
+        <linearGradient x1="26.0921231%" y1="0%" x2="73.9078769%" y2="100%" id="linearGradient-543">
+            <stop stop-color="#073B89" offset="0%"></stop>
+            <stop stop-color="#083875" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-544" d="M464.580753,953.57085 L673.92887,1043.53036 L734.152301,897.346154 L464.580753,953.57085 Z"></path>
+        <linearGradient x1="0%" y1="19.9469764%" x2="100%" y2="80.0530236%" id="linearGradient-545">
+            <stop stop-color="#083A5D" offset="0%"></stop>
+            <stop stop-color="#07376F" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-546" d="M536.275314,755.659919 L665.325523,697.186235 L734.152301,897.346154 L536.275314,755.659919 Z"></path>
+        <linearGradient x1="0%" y1="45.9183673%" x2="100%" y2="54.0816327%" id="linearGradient-547">
+            <stop stop-color="#073D79" offset="0%"></stop>
+            <stop stop-color="#093866" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-548" d="M665.325523,697.186235 L739.887866,692.688259 L734.152301,897.346154 L665.325523,697.186235 Z"></path>
+        <linearGradient x1="0%" y1="7.3964497%" x2="100%" y2="92.6035503%" id="linearGradient-549">
+            <stop stop-color="#0C3438" offset="0%"></stop>
+            <stop stop-color="#083978" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-550" d="M673.92887,1043.53036 L845.995816,1025.53846 L734.152301,897.346154 L673.92887,1043.53036 Z"></path>
+        <linearGradient x1="0%" y1="28.982007%" x2="100%" y2="71.017993%" id="linearGradient-551">
+            <stop stop-color="#0A3962" offset="0%"></stop>
+            <stop stop-color="#063D94" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-552" d="M739.887866,692.688259 L903.351464,787.145749 L734.152301,897.346154 L739.887866,692.688259 Z"></path>
+        <linearGradient x1="0%" y1="1.73899661%" x2="100%" y2="98.2610034%" id="linearGradient-553">
+            <stop stop-color="#073F95" offset="0%"></stop>
+            <stop stop-color="#063D96" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-554" d="M845.995816,1025.53846 L894.748117,1016.54251 L734.152301,897.346154 L845.995816,1025.53846 Z"></path>
+        <linearGradient x1="0%" y1="33.2708574%" x2="100%" y2="66.7291426%" id="linearGradient-555">
+            <stop stop-color="#073E92" offset="0%"></stop>
+            <stop stop-color="#063C93" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-556" d="M894.748117,1016.54251 L903.351464,787.145749 L734.152301,897.346154 L894.748117,1016.54251 Z"></path>
+        <linearGradient x1="0%" y1="45.7646469%" x2="100%" y2="54.2353531%" id="linearGradient-557">
+            <stop stop-color="#0A4B94" offset="0%"></stop>
+            <stop stop-color="#1D5186" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-558" d="M3257.80084,1095.25709 L3303.68536,1189.71457 L3369.64435,888.350202 L3257.80084,1095.25709 Z"></path>
+        <linearGradient x1="0%" y1="41.0148866%" x2="100%" y2="58.9851134%" id="linearGradient-559">
+            <stop stop-color="#0B4C96" offset="0%"></stop>
+            <stop stop-color="#1756A6" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-560" d="M3257.80084,1095.25709 L3315.15649,919.836032 L3369.64435,888.350202 L3257.80084,1095.25709 Z"></path>
+        <linearGradient x1="0%" y1="31.7198486%" x2="100%" y2="68.2801514%" id="linearGradient-561">
+            <stop stop-color="#09499F" offset="0%"></stop>
+            <stop stop-color="#1655A6" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-562" d="M3295.08201,823.129555 L3315.15649,919.836032 L3369.64435,888.350202 L3295.08201,823.129555 Z"></path>
+        <linearGradient x1="0%" y1="45.6353306%" x2="100%" y2="54.3646694%" id="linearGradient-563">
+            <stop stop-color="#0A4AA0" offset="0%"></stop>
+            <stop stop-color="#1653A2" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-564" d="M3295.08201,823.129555 L3338.09874,690.439271 L3369.64435,888.350202 L3295.08201,823.129555 Z"></path>
+        <linearGradient x1="0%" y1="49.0044789%" x2="100%" y2="50.9955211%" id="linearGradient-565">
+            <stop stop-color="#0B4A9F" offset="0%"></stop>
+            <stop stop-color="#1D5087" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-566" d="M3303.68536,1254.93522 L3303.68536,1189.71457 L3369.64435,888.350202 L3303.68536,1254.93522 Z"></path>
+        <linearGradient x1="0%" y1="49.3114848%" x2="100%" y2="50.6885152%" id="linearGradient-567">
+            <stop stop-color="#18529A" offset="0%"></stop>
+            <stop stop-color="#628FBA" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-568" d="M3338.09874,690.439271 L3404.05774,447.548583 L3369.64435,888.350202 L3338.09874,690.439271 Z"></path>
+        <linearGradient x1="42.6035503%" y1="0%" x2="57.3964497%" y2="100%" id="linearGradient-569">
+            <stop stop-color="#0D312D" offset="0%"></stop>
+            <stop stop-color="#0C302C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-570" d="M1109.8318,1961.11741 L1155.71632,1994.85223 L1221.67531,1970.11336 L1109.8318,1961.11741 Z"></path>
+        <linearGradient x1="37.5%" y1="0%" x2="62.5%" y2="100%" id="linearGradient-571">
+            <stop stop-color="#0C302C" offset="0%"></stop>
+            <stop stop-color="#1B3E3C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-572" d="M1109.8318,1961.11741 L1253.22092,1913.88866 L1221.67531,1970.11336 L1109.8318,1961.11741 Z"></path>
+        <linearGradient x1="47.4311111%" y1="0%" x2="52.5688889%" y2="100%" id="linearGradient-573">
+            <stop stop-color="#0C302C" offset="0%"></stop>
+            <stop stop-color="#0C302C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-574" d="M1155.71632,1994.85223 L1370.8,2008.34615 L1221.67531,1970.11336 L1155.71632,1994.85223 Z"></path>
+        <linearGradient x1="0%" y1="17.3816568%" x2="100%" y2="82.6183432%" id="linearGradient-575">
+            <stop stop-color="#234645" offset="0%"></stop>
+            <stop stop-color="#173B38" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-576" d="M1253.22092,1913.88866 L1281.89874,1911.63968 L1221.67531,1970.11336 L1253.22092,1913.88866 Z"></path>
+        <linearGradient x1="15.8099112%" y1="0%" x2="84.1900888%" y2="100%" id="linearGradient-577">
+            <stop stop-color="#1C3F3C" offset="0%"></stop>
+            <stop stop-color="#0C302C" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-578" d="M1281.89874,1911.63968 L1370.8,2008.34615 L1221.67531,1970.11336 L1281.89874,1911.63968 Z"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-579">
+            <stop stop-color="#0D3B65" offset="0%"></stop>
+            <stop stop-color="#103B5B" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-580" d="M1714.93389,688.190283 L1995.97657,607.226721 L2038.99331,861.362348 L1714.93389,688.190283 Z"></path>
+        <linearGradient x1="0%" y1="3.36036233%" x2="100%" y2="96.6396377%" id="linearGradient-581">
+            <stop stop-color="#0F3A61" offset="0%"></stop>
+            <stop stop-color="#123951" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-582" d="M1714.93389,688.190283 L2004.57992,951.321862 L2038.99331,861.362348 L1714.93389,688.190283 Z"></path>
+        <linearGradient x1="0%" y1="12.3932963%" x2="100%" y2="87.6067037%" id="linearGradient-583">
+            <stop stop-color="#074194" offset="0%"></stop>
+            <stop stop-color="#0C3D72" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-584" d="M1995.97657,607.226721 L2277.01925,735.419028 L2038.99331,861.362348 L1995.97657,607.226721 Z"></path>
+        <linearGradient x1="0%" y1="24.08%" x2="100%" y2="75.92%" id="linearGradient-585">
+            <stop stop-color="#093F88" offset="0%"></stop>
+            <stop stop-color="#0F3C64" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-586" d="M2004.57992,951.321862 L2159.44017,1030.03644 L2038.99331,861.362348 L2004.57992,951.321862 Z"></path>
+        <linearGradient x1="0%" y1="29.9283259%" x2="100%" y2="70.0716741%" id="linearGradient-587">
+            <stop stop-color="#113C56" offset="0%"></stop>
+            <stop stop-color="#103B5A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-588" d="M2159.44017,1030.03644 L2277.01925,735.419028 L2038.99331,861.362348 L2159.44017,1030.03644 Z"></path>
+        <linearGradient x1="13.9820634%" y1="0%" x2="86.0179366%" y2="100%" id="linearGradient-589">
+            <stop stop-color="#4C90B1" offset="0%"></stop>
+            <stop stop-color="#4C8EB1" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-590" d="M1560.07364,1751.96154 L1600.22259,1778.94939 L1901.33975,1551.80162 L1560.07364,1751.96154 Z"></path>
+        <linearGradient x1="0%" y1="8.74074937%" x2="100%" y2="91.2592506%" id="linearGradient-591">
+            <stop stop-color="#3B748D" offset="0%"></stop>
+            <stop stop-color="#2A638E" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-592" d="M1560.07364,1751.96154 L1806.70293,1457.34413 L1901.33975,1551.80162 L1560.07364,1751.96154 Z"></path>
+        <linearGradient x1="0%" y1="21.7418641%" x2="100%" y2="78.2581359%" id="linearGradient-593">
+            <stop stop-color="#4D8FB0" offset="0%"></stop>
+            <stop stop-color="#366E85" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-594" d="M1600.22259,1778.94939 L1904.20753,1868.90891 L1901.33975,1551.80162 L1600.22259,1778.94939 Z"></path>
+        <linearGradient x1="0%" y1="46.4587669%" x2="100%" y2="53.5412331%" id="linearGradient-595">
+            <stop stop-color="#094592" offset="0%"></stop>
+            <stop stop-color="#1E5BA0" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-596" d="M1806.70293,1457.34413 L1841.11632,1272.92713 L1901.33975,1551.80162 L1806.70293,1457.34413 Z"></path>
+        <linearGradient x1="0%" y1="43.4110527%" x2="100%" y2="56.5889473%" id="linearGradient-597">
+            <stop stop-color="#073F95" offset="0%"></stop>
+            <stop stop-color="#1D57A2" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-598" d="M1841.11632,1272.92713 L1993.10879,1601.27935 L1901.33975,1551.80162 L1841.11632,1272.92713 Z"></path>
+        <linearGradient x1="0%" y1="47.4246768%" x2="100%" y2="52.5753232%" id="linearGradient-599">
+            <stop stop-color="#093561" offset="0%"></stop>
+            <stop stop-color="#1E56A3" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-600" d="M1904.20753,1868.90891 L1993.10879,1601.27935 L1901.33975,1551.80162 L1904.20753,1868.90891 Z"></path>
+        <linearGradient x1="0%" y1="33.2661703%" x2="100%" y2="66.7338297%" id="linearGradient-601">
+            <stop stop-color="#75908E" offset="0%"></stop>
+            <stop stop-color="#90A9A8" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-602" d="M3226.25523,2219.75101 L3381.11548,1992.60324 L3427,1947.62348 L3226.25523,2219.75101 Z"></path>
+        <linearGradient x1="0%" y1="49.025447%" x2="100%" y2="50.974553%" id="linearGradient-603">
+            <stop stop-color="#0E4B92" offset="0%"></stop>
+            <stop stop-color="#5281A7" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-604" d="M3303.68536,1254.93522 L3303.68536,1774.45142 L3427,1947.62348 L3303.68536,1254.93522 Z"></path>
+        <linearGradient x1="0%" y1="49.5832601%" x2="100%" y2="50.4167399%" id="linearGradient-605">
+            <stop stop-color="#1857A5" offset="0%"></stop>
+            <stop stop-color="#6391BF" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-606" d="M3303.68536,1254.93522 L3369.64435,888.350202 L3427,1947.62348 L3303.68536,1254.93522 Z"></path>
+        <linearGradient x1="0%" y1="40.1743012%" x2="100%" y2="59.8256988%" id="linearGradient-607">
+            <stop stop-color="#3F6A84" offset="0%"></stop>
+            <stop stop-color="#AEC3C1" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-608" d="M3303.68536,1774.45142 L3381.11548,1992.60324 L3427,1947.62348 L3303.68536,1774.45142 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="download-(7)" sketch:type="MSLayerGroup" transform="translate(-339.000000, -70.000000)">
+            <g id="triangle36">
+                <use fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-2"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-3)" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-4"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-5)" sketch:type="MSShapeGroup" xlink:href="#path-6"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-6"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-7)" sketch:type="MSShapeGroup" xlink:href="#path-8"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-8"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-9)" sketch:type="MSShapeGroup" xlink:href="#path-10"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-10"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-11)" sketch:type="MSShapeGroup" xlink:href="#path-12"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-12"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-13)" sketch:type="MSShapeGroup" xlink:href="#path-14"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-14"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-15)" sketch:type="MSShapeGroup" xlink:href="#path-16"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-16"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-17)" sketch:type="MSShapeGroup" xlink:href="#path-18"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-18"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-19)" sketch:type="MSShapeGroup" xlink:href="#path-20"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-20"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-21)" sketch:type="MSShapeGroup" xlink:href="#path-22"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-22"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-23)" sketch:type="MSShapeGroup" xlink:href="#path-24"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-24"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-25)" sketch:type="MSShapeGroup" xlink:href="#path-26"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-26"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-27)" sketch:type="MSShapeGroup" xlink:href="#path-28"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-28"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-29)" sketch:type="MSShapeGroup" xlink:href="#path-30"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-30"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-31)" sketch:type="MSShapeGroup" xlink:href="#path-32"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-32"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-33)" sketch:type="MSShapeGroup" xlink:href="#path-34"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-34"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-35)" sketch:type="MSShapeGroup" xlink:href="#path-36"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-36"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-37)" sketch:type="MSShapeGroup" xlink:href="#path-38"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-38"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-39)" sketch:type="MSShapeGroup" xlink:href="#path-40"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-40"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-41)" sketch:type="MSShapeGroup" xlink:href="#path-42"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-42"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-43)" sketch:type="MSShapeGroup" xlink:href="#path-44"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-44"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-45)" sketch:type="MSShapeGroup" xlink:href="#path-46"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-46"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-47)" sketch:type="MSShapeGroup" xlink:href="#path-48"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-48"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-49)" sketch:type="MSShapeGroup" xlink:href="#path-50"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-50"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-51)" sketch:type="MSShapeGroup" xlink:href="#path-52"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-52"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-53)" sketch:type="MSShapeGroup" xlink:href="#path-54"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-54"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-55)" sketch:type="MSShapeGroup" xlink:href="#path-56"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-56"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-57)" sketch:type="MSShapeGroup" xlink:href="#path-58"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-58"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-59)" sketch:type="MSShapeGroup" xlink:href="#path-60"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-60"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-61)" sketch:type="MSShapeGroup" xlink:href="#path-62"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-62"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-63)" sketch:type="MSShapeGroup" xlink:href="#path-64"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-64"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-65)" sketch:type="MSShapeGroup" xlink:href="#path-66"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-66"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-67)" sketch:type="MSShapeGroup" xlink:href="#path-68"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-68"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-69)" sketch:type="MSShapeGroup" xlink:href="#path-70"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-70"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-71)" sketch:type="MSShapeGroup" xlink:href="#path-72"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-72"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-73)" sketch:type="MSShapeGroup" xlink:href="#path-74"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-74"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-75)" sketch:type="MSShapeGroup" xlink:href="#path-76"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-76"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-77)" sketch:type="MSShapeGroup" xlink:href="#path-78"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-78"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-79)" sketch:type="MSShapeGroup" xlink:href="#path-80"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-80"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-81)" sketch:type="MSShapeGroup" xlink:href="#path-82"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-82"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-83)" sketch:type="MSShapeGroup" xlink:href="#path-84"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-84"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-85)" sketch:type="MSShapeGroup" xlink:href="#path-86"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-86"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-87)" sketch:type="MSShapeGroup" xlink:href="#path-88"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-88"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-89)" sketch:type="MSShapeGroup" xlink:href="#path-90"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-90"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-91)" sketch:type="MSShapeGroup" xlink:href="#path-92"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-92"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-93)" sketch:type="MSShapeGroup" xlink:href="#path-94"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-94"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-95)" sketch:type="MSShapeGroup" xlink:href="#path-96"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-96"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-97)" sketch:type="MSShapeGroup" xlink:href="#path-98"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-98"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-99)" sketch:type="MSShapeGroup" xlink:href="#path-100"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-100"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-101)" sketch:type="MSShapeGroup" xlink:href="#path-102"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-102"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-103)" sketch:type="MSShapeGroup" xlink:href="#path-104"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-104"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-105)" sketch:type="MSShapeGroup" xlink:href="#path-106"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-106"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-107)" sketch:type="MSShapeGroup" xlink:href="#path-108"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-108"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-109)" sketch:type="MSShapeGroup" xlink:href="#path-110"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-110"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-111)" sketch:type="MSShapeGroup" xlink:href="#path-112"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-112"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-113)" sketch:type="MSShapeGroup" xlink:href="#path-114"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-114"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-115)" sketch:type="MSShapeGroup" xlink:href="#path-116"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-116"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-117)" sketch:type="MSShapeGroup" xlink:href="#path-118"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-118"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-119)" sketch:type="MSShapeGroup" xlink:href="#path-120"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-120"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-121)" sketch:type="MSShapeGroup" xlink:href="#path-122"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-122"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-123)" sketch:type="MSShapeGroup" xlink:href="#path-124"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-124"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-125)" sketch:type="MSShapeGroup" xlink:href="#path-126"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-126"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-127)" sketch:type="MSShapeGroup" xlink:href="#path-128"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-128"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-129)" sketch:type="MSShapeGroup" xlink:href="#path-130"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-130"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-131)" sketch:type="MSShapeGroup" xlink:href="#path-132"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-132"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-133)" sketch:type="MSShapeGroup" xlink:href="#path-134"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-134"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-135)" sketch:type="MSShapeGroup" xlink:href="#path-136"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-136"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-137)" sketch:type="MSShapeGroup" xlink:href="#path-138"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-138"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-139)" sketch:type="MSShapeGroup" xlink:href="#path-140"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-140"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-141)" sketch:type="MSShapeGroup" xlink:href="#path-142"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-142"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-143)" sketch:type="MSShapeGroup" xlink:href="#path-144"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-144"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-145)" sketch:type="MSShapeGroup" xlink:href="#path-146"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-146"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-147)" sketch:type="MSShapeGroup" xlink:href="#path-148"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-148"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-149)" sketch:type="MSShapeGroup" xlink:href="#path-150"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-150"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-151)" sketch:type="MSShapeGroup" xlink:href="#path-152"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-152"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-153)" sketch:type="MSShapeGroup" xlink:href="#path-154"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-154"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-155)" sketch:type="MSShapeGroup" xlink:href="#path-156"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-156"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-157)" sketch:type="MSShapeGroup" xlink:href="#path-158"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-158"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-159)" sketch:type="MSShapeGroup" xlink:href="#path-160"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-160"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-161)" sketch:type="MSShapeGroup" xlink:href="#path-162"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-162"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-163)" sketch:type="MSShapeGroup" xlink:href="#path-164"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-164"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-165)" sketch:type="MSShapeGroup" xlink:href="#path-166"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-166"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-167)" sketch:type="MSShapeGroup" xlink:href="#path-168"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-168"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-169)" sketch:type="MSShapeGroup" xlink:href="#path-170"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-170"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-171)" sketch:type="MSShapeGroup" xlink:href="#path-172"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-172"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-173)" sketch:type="MSShapeGroup" xlink:href="#path-174"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-174"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-175)" sketch:type="MSShapeGroup" xlink:href="#path-176"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-176"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-177)" sketch:type="MSShapeGroup" xlink:href="#path-178"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-178"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-179)" sketch:type="MSShapeGroup" xlink:href="#path-180"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-180"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-181)" sketch:type="MSShapeGroup" xlink:href="#path-182"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-182"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-183)" sketch:type="MSShapeGroup" xlink:href="#path-184"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-184"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-185)" sketch:type="MSShapeGroup" xlink:href="#path-186"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-186"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-187)" sketch:type="MSShapeGroup" xlink:href="#path-188"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-188"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-189)" sketch:type="MSShapeGroup" xlink:href="#path-190"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-190"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-191)" sketch:type="MSShapeGroup" xlink:href="#path-192"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-192"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-193)" sketch:type="MSShapeGroup" xlink:href="#path-194"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-194"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-195)" sketch:type="MSShapeGroup" xlink:href="#path-196"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-196"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-197)" sketch:type="MSShapeGroup" xlink:href="#path-198"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-198"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-199)" sketch:type="MSShapeGroup" xlink:href="#path-200"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-200"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-201)" sketch:type="MSShapeGroup" xlink:href="#path-202"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-202"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-203)" sketch:type="MSShapeGroup" xlink:href="#path-204"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-204"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-205)" sketch:type="MSShapeGroup" xlink:href="#path-206"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-206"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-207)" sketch:type="MSShapeGroup" xlink:href="#path-208"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-208"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-209)" sketch:type="MSShapeGroup" xlink:href="#path-210"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-210"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-211)" sketch:type="MSShapeGroup" xlink:href="#path-212"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-212"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-213)" sketch:type="MSShapeGroup" xlink:href="#path-214"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-214"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-215)" sketch:type="MSShapeGroup" xlink:href="#path-216"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-216"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-217)" sketch:type="MSShapeGroup" xlink:href="#path-218"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-218"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-219)" sketch:type="MSShapeGroup" xlink:href="#path-220"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-220"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-221)" sketch:type="MSShapeGroup" xlink:href="#path-222"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-222"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-223)" sketch:type="MSShapeGroup" xlink:href="#path-224"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-224"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-225)" sketch:type="MSShapeGroup" xlink:href="#path-226"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-226"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-227)" sketch:type="MSShapeGroup" xlink:href="#path-228"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-228"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-229)" sketch:type="MSShapeGroup" xlink:href="#path-230"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-230"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-231)" sketch:type="MSShapeGroup" xlink:href="#path-232"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-232"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-233)" sketch:type="MSShapeGroup" xlink:href="#path-234"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-234"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-235)" sketch:type="MSShapeGroup" xlink:href="#path-236"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-236"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-237)" sketch:type="MSShapeGroup" xlink:href="#path-238"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-238"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-239)" sketch:type="MSShapeGroup" xlink:href="#path-240"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-240"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-241)" sketch:type="MSShapeGroup" xlink:href="#path-242"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-242"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-243)" sketch:type="MSShapeGroup" xlink:href="#path-244"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-244"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-245)" sketch:type="MSShapeGroup" xlink:href="#path-246"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-246"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-247)" sketch:type="MSShapeGroup" xlink:href="#path-248"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-248"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-249)" sketch:type="MSShapeGroup" xlink:href="#path-250"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-250"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-251)" sketch:type="MSShapeGroup" xlink:href="#path-252"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-252"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-253)" sketch:type="MSShapeGroup" xlink:href="#path-254"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-254"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-255)" sketch:type="MSShapeGroup" xlink:href="#path-256"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-256"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-257)" sketch:type="MSShapeGroup" xlink:href="#path-258"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-258"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-259)" sketch:type="MSShapeGroup" xlink:href="#path-260"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-260"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-261)" sketch:type="MSShapeGroup" xlink:href="#path-262"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-262"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-263)" sketch:type="MSShapeGroup" xlink:href="#path-264"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-264"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-265)" sketch:type="MSShapeGroup" xlink:href="#path-266"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-266"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-267)" sketch:type="MSShapeGroup" xlink:href="#path-268"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-268"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-269)" sketch:type="MSShapeGroup" xlink:href="#path-270"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-270"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-271)" sketch:type="MSShapeGroup" xlink:href="#path-272"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-272"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-273)" sketch:type="MSShapeGroup" xlink:href="#path-274"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-274"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-275)" sketch:type="MSShapeGroup" xlink:href="#path-276"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-276"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-277)" sketch:type="MSShapeGroup" xlink:href="#path-278"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-278"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-279)" sketch:type="MSShapeGroup" xlink:href="#path-280"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-280"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-281)" sketch:type="MSShapeGroup" xlink:href="#path-282"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-282"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-283)" sketch:type="MSShapeGroup" xlink:href="#path-284"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-284"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-285)" sketch:type="MSShapeGroup" xlink:href="#path-286"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-286"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-287)" sketch:type="MSShapeGroup" xlink:href="#path-288"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-288"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-289)" sketch:type="MSShapeGroup" xlink:href="#path-290"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-290"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-291)" sketch:type="MSShapeGroup" xlink:href="#path-292"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-292"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-293)" sketch:type="MSShapeGroup" xlink:href="#path-294"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-294"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-295)" sketch:type="MSShapeGroup" xlink:href="#path-296"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-296"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-297)" sketch:type="MSShapeGroup" xlink:href="#path-298"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-298"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-299)" sketch:type="MSShapeGroup" xlink:href="#path-300"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-300"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-301)" sketch:type="MSShapeGroup" xlink:href="#path-302"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-302"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-303)" sketch:type="MSShapeGroup" xlink:href="#path-304"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-304"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-305)" sketch:type="MSShapeGroup" xlink:href="#path-306"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-306"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-307)" sketch:type="MSShapeGroup" xlink:href="#path-308"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-308"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-309)" sketch:type="MSShapeGroup" xlink:href="#path-310"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-310"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-311)" sketch:type="MSShapeGroup" xlink:href="#path-312"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-312"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-313)" sketch:type="MSShapeGroup" xlink:href="#path-314"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-314"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-315)" sketch:type="MSShapeGroup" xlink:href="#path-316"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-316"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-317)" sketch:type="MSShapeGroup" xlink:href="#path-318"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-318"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-319)" sketch:type="MSShapeGroup" xlink:href="#path-320"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-320"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-321)" sketch:type="MSShapeGroup" xlink:href="#path-322"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-322"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-323)" sketch:type="MSShapeGroup" xlink:href="#path-324"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-324"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-325)" sketch:type="MSShapeGroup" xlink:href="#path-326"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-326"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-327)" sketch:type="MSShapeGroup" xlink:href="#path-328"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-328"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-329)" sketch:type="MSShapeGroup" xlink:href="#path-330"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-330"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-331)" sketch:type="MSShapeGroup" xlink:href="#path-332"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-332"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-333)" sketch:type="MSShapeGroup" xlink:href="#path-334"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-334"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-335)" sketch:type="MSShapeGroup" xlink:href="#path-336"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-336"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-337)" sketch:type="MSShapeGroup" xlink:href="#path-338"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-338"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-339)" sketch:type="MSShapeGroup" xlink:href="#path-340"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-340"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-341)" sketch:type="MSShapeGroup" xlink:href="#path-342"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-342"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-343)" sketch:type="MSShapeGroup" xlink:href="#path-344"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-344"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-345)" sketch:type="MSShapeGroup" xlink:href="#path-346"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-346"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-347)" sketch:type="MSShapeGroup" xlink:href="#path-348"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-348"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-349)" sketch:type="MSShapeGroup" xlink:href="#path-350"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-350"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-351)" sketch:type="MSShapeGroup" xlink:href="#path-352"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-352"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-353)" sketch:type="MSShapeGroup" xlink:href="#path-354"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-354"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-355)" sketch:type="MSShapeGroup" xlink:href="#path-356"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-356"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-357)" sketch:type="MSShapeGroup" xlink:href="#path-358"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-358"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-359)" sketch:type="MSShapeGroup" xlink:href="#path-360"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-360"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-361)" sketch:type="MSShapeGroup" xlink:href="#path-362"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-362"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-363)" sketch:type="MSShapeGroup" xlink:href="#path-364"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-364"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-365)" sketch:type="MSShapeGroup" xlink:href="#path-366"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-366"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-367)" sketch:type="MSShapeGroup" xlink:href="#path-368"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-368"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-369)" sketch:type="MSShapeGroup" xlink:href="#path-370"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-370"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-371)" sketch:type="MSShapeGroup" xlink:href="#path-372"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-372"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-373)" sketch:type="MSShapeGroup" xlink:href="#path-374"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-374"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-375)" sketch:type="MSShapeGroup" xlink:href="#path-376"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-376"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-377)" sketch:type="MSShapeGroup" xlink:href="#path-378"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-378"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-379)" sketch:type="MSShapeGroup" xlink:href="#path-380"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-380"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-381)" sketch:type="MSShapeGroup" xlink:href="#path-382"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-382"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-383)" sketch:type="MSShapeGroup" xlink:href="#path-384"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-384"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-385)" sketch:type="MSShapeGroup" xlink:href="#path-386"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-386"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-387)" sketch:type="MSShapeGroup" xlink:href="#path-388"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-388"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-389)" sketch:type="MSShapeGroup" xlink:href="#path-390"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-390"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-391)" sketch:type="MSShapeGroup" xlink:href="#path-392"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-392"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-393)" sketch:type="MSShapeGroup" xlink:href="#path-394"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-394"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-395)" sketch:type="MSShapeGroup" xlink:href="#path-396"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-396"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-397)" sketch:type="MSShapeGroup" xlink:href="#path-398"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-398"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-399)" sketch:type="MSShapeGroup" xlink:href="#path-400"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-400"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-401)" sketch:type="MSShapeGroup" xlink:href="#path-402"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-402"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-403)" sketch:type="MSShapeGroup" xlink:href="#path-404"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-404"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-405)" sketch:type="MSShapeGroup" xlink:href="#path-406"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-406"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-407)" sketch:type="MSShapeGroup" xlink:href="#path-408"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-408"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-409)" sketch:type="MSShapeGroup" xlink:href="#path-410"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-410"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-411)" sketch:type="MSShapeGroup" xlink:href="#path-412"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-412"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-413)" sketch:type="MSShapeGroup" xlink:href="#path-414"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-414"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-415)" sketch:type="MSShapeGroup" xlink:href="#path-416"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-416"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-417)" sketch:type="MSShapeGroup" xlink:href="#path-418"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-418"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-419)" sketch:type="MSShapeGroup" xlink:href="#path-420"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-420"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-421)" sketch:type="MSShapeGroup" xlink:href="#path-422"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-422"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-423)" sketch:type="MSShapeGroup" xlink:href="#path-424"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-424"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-425)" sketch:type="MSShapeGroup" xlink:href="#path-426"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-426"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-427)" sketch:type="MSShapeGroup" xlink:href="#path-428"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-428"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-429)" sketch:type="MSShapeGroup" xlink:href="#path-430"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-430"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-431)" sketch:type="MSShapeGroup" xlink:href="#path-432"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-432"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-433)" sketch:type="MSShapeGroup" xlink:href="#path-434"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-434"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-435)" sketch:type="MSShapeGroup" xlink:href="#path-436"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-436"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-437)" sketch:type="MSShapeGroup" xlink:href="#path-438"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-438"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-439)" sketch:type="MSShapeGroup" xlink:href="#path-440"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-440"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-441)" sketch:type="MSShapeGroup" xlink:href="#path-442"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-442"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-443)" sketch:type="MSShapeGroup" xlink:href="#path-444"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-444"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-445)" sketch:type="MSShapeGroup" xlink:href="#path-446"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-446"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-447)" sketch:type="MSShapeGroup" xlink:href="#path-448"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-448"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-449)" sketch:type="MSShapeGroup" xlink:href="#path-450"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-450"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-451)" sketch:type="MSShapeGroup" xlink:href="#path-452"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-452"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-453)" sketch:type="MSShapeGroup" xlink:href="#path-454"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-454"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-455)" sketch:type="MSShapeGroup" xlink:href="#path-456"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-456"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-457)" sketch:type="MSShapeGroup" xlink:href="#path-458"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-458"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-459)" sketch:type="MSShapeGroup" xlink:href="#path-460"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-460"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-461)" sketch:type="MSShapeGroup" xlink:href="#path-462"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-462"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-463)" sketch:type="MSShapeGroup" xlink:href="#path-464"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-464"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-465)" sketch:type="MSShapeGroup" xlink:href="#path-466"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-466"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-467)" sketch:type="MSShapeGroup" xlink:href="#path-468"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-468"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-469)" sketch:type="MSShapeGroup" xlink:href="#path-470"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-470"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-471)" sketch:type="MSShapeGroup" xlink:href="#path-472"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-472"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-473)" sketch:type="MSShapeGroup" xlink:href="#path-474"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-474"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-475)" sketch:type="MSShapeGroup" xlink:href="#path-476"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-476"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-477)" sketch:type="MSShapeGroup" xlink:href="#path-478"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-478"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-479)" sketch:type="MSShapeGroup" xlink:href="#path-480"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-480"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-481)" sketch:type="MSShapeGroup" xlink:href="#path-482"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-482"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-483)" sketch:type="MSShapeGroup" xlink:href="#path-484"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-484"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-485)" sketch:type="MSShapeGroup" xlink:href="#path-486"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-486"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-487)" sketch:type="MSShapeGroup" xlink:href="#path-488"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-488"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-489)" sketch:type="MSShapeGroup" xlink:href="#path-490"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-490"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-491)" sketch:type="MSShapeGroup" xlink:href="#path-492"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-492"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-493)" sketch:type="MSShapeGroup" xlink:href="#path-494"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-494"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-495)" sketch:type="MSShapeGroup" xlink:href="#path-496"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-496"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-497)" sketch:type="MSShapeGroup" xlink:href="#path-498"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-498"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-499)" sketch:type="MSShapeGroup" xlink:href="#path-500"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-500"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-501)" sketch:type="MSShapeGroup" xlink:href="#path-502"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-502"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-503)" sketch:type="MSShapeGroup" xlink:href="#path-504"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-504"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-505)" sketch:type="MSShapeGroup" xlink:href="#path-506"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-506"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-507)" sketch:type="MSShapeGroup" xlink:href="#path-508"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-508"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-509)" sketch:type="MSShapeGroup" xlink:href="#path-510"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-510"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-511)" sketch:type="MSShapeGroup" xlink:href="#path-512"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-512"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-513)" sketch:type="MSShapeGroup" xlink:href="#path-514"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-514"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-515)" sketch:type="MSShapeGroup" xlink:href="#path-516"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-516"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-517)" sketch:type="MSShapeGroup" xlink:href="#path-518"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-518"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-519)" sketch:type="MSShapeGroup" xlink:href="#path-520"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-520"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-521)" sketch:type="MSShapeGroup" xlink:href="#path-522"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-522"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-523)" sketch:type="MSShapeGroup" xlink:href="#path-524"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-524"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-525)" sketch:type="MSShapeGroup" xlink:href="#path-526"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-526"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-527)" sketch:type="MSShapeGroup" xlink:href="#path-528"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-528"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-529)" sketch:type="MSShapeGroup" xlink:href="#path-530"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-530"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-531)" sketch:type="MSShapeGroup" xlink:href="#path-532"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-532"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-533)" sketch:type="MSShapeGroup" xlink:href="#path-534"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-534"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-535)" sketch:type="MSShapeGroup" xlink:href="#path-536"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-536"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-537)" sketch:type="MSShapeGroup" xlink:href="#path-538"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-538"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-539)" sketch:type="MSShapeGroup" xlink:href="#path-540"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-540"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-541)" sketch:type="MSShapeGroup" xlink:href="#path-542"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-542"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-543)" sketch:type="MSShapeGroup" xlink:href="#path-544"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-544"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-545)" sketch:type="MSShapeGroup" xlink:href="#path-546"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-546"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-547)" sketch:type="MSShapeGroup" xlink:href="#path-548"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-548"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-549)" sketch:type="MSShapeGroup" xlink:href="#path-550"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-550"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-551)" sketch:type="MSShapeGroup" xlink:href="#path-552"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-552"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-553)" sketch:type="MSShapeGroup" xlink:href="#path-554"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-554"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-555)" sketch:type="MSShapeGroup" xlink:href="#path-556"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-556"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-557)" sketch:type="MSShapeGroup" xlink:href="#path-558"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-558"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-559)" sketch:type="MSShapeGroup" xlink:href="#path-560"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-560"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-561)" sketch:type="MSShapeGroup" xlink:href="#path-562"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-562"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-563)" sketch:type="MSShapeGroup" xlink:href="#path-564"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-564"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-565)" sketch:type="MSShapeGroup" xlink:href="#path-566"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-566"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-567)" sketch:type="MSShapeGroup" xlink:href="#path-568"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-568"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-569)" sketch:type="MSShapeGroup" xlink:href="#path-570"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-570"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-571)" sketch:type="MSShapeGroup" xlink:href="#path-572"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-572"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-573)" sketch:type="MSShapeGroup" xlink:href="#path-574"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-574"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-575)" sketch:type="MSShapeGroup" xlink:href="#path-576"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-576"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-577)" sketch:type="MSShapeGroup" xlink:href="#path-578"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-578"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-579)" sketch:type="MSShapeGroup" xlink:href="#path-580"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-580"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-581)" sketch:type="MSShapeGroup" xlink:href="#path-582"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-582"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-583)" sketch:type="MSShapeGroup" xlink:href="#path-584"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-584"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-585)" sketch:type="MSShapeGroup" xlink:href="#path-586"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-586"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-587)" sketch:type="MSShapeGroup" xlink:href="#path-588"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-588"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-589)" sketch:type="MSShapeGroup" xlink:href="#path-590"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-590"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-591)" sketch:type="MSShapeGroup" xlink:href="#path-592"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-592"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-593)" sketch:type="MSShapeGroup" xlink:href="#path-594"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-594"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-595)" sketch:type="MSShapeGroup" xlink:href="#path-596"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-596"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-597)" sketch:type="MSShapeGroup" xlink:href="#path-598"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-598"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-599)" sketch:type="MSShapeGroup" xlink:href="#path-600"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-600"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-601)" sketch:type="MSShapeGroup" xlink:href="#path-602"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-602"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-603)" sketch:type="MSShapeGroup" xlink:href="#path-604"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-604"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-605)" sketch:type="MSShapeGroup" xlink:href="#path-606"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-606"></use>
+            </g>
+            <g id="triangle36">
+                <use fill="url(#linearGradient-607)" sketch:type="MSShapeGroup" xlink:href="#path-608"></use>
+                <use fill-opacity="0.0422388054" fill="none" xlink:href="#path-608"></use>
+            </g>
+        </g>
+    </g>
+</svg>
